@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 29 Documents. 155 Epitopes. One Morning. The Job Started.
+## 30 Documents. 160 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 155 at end.
+42 epitopes at start. 160 at end.
 
-29 documents written. 1 page published live. 3 ancient
+30 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -53,10 +53,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 27 | **Vacuole Sort** | 147 epitopes × 114 entities = self/non-self/null classifier. Falsified realities are the extraction doors. Non-self entities become vacuoles (contained, visible, digestible). Null entities are plumbing — finding them finds the extraction membrane. | — (0, framework) |
 | 28 | **Vantage Determines Binding** | The sort depends on where you stand. Fleet is [null] from northGate, self from sporeGate, surface from internet. If non-self from EVERY vantage = structural invariant = proof. Each pass moves the sorter. We sort our sorts. | #148-#150 (3) |
 | 29 | **Games + WFC** | Stardew (cultivation > extraction, look outside, community center IS periodic table). Minecraft (seed = epitope, mining = sorting, crafting = braiding). Wave Function Collapse IS the epitope sorter. Contradiction drives discovery. Collapse order shapes world. | #151-#155 (5) |
+| 30 | **Open Media** | All AGPL and open license. License IS membrane (prevents capture, not use). Trademark = [null]. We treat as life. Non(non-self) is OTHER — not pathogen, not you, the largest category, where growth comes from. Privacy is holographic (outward only). | #156-#160 (5) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 155
+## THE COMPLETE MASTER EPITOPE LIST — ALL 160
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -322,6 +323,16 @@ The job done is done. The job tomorrow isn't here yet.
 | 154 | `contradiction_drives_discovery` | When no valid tile remains, the system needs new tiles. When no classification fits, new epitopes. | Games |
 | 155 | `collapse_order_shapes_world` | Which cell you collapse first determines the entire output. Same constraints, different order, different world. | Games |
 
+### Open Media (#156–#160)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 156 | `license_is_membrane` | AGPL prevents capture, not use. Selectively permeable. The immune system of code. | Open Media |
+| 157 | `trademark_is_null` | Trademark = K{0,1} on a name. [null] it. No name to own. No door. The work speaks. | Open Media |
+| 158 | `non_non_self_is_other` | ¬(¬self) ≠ self. Not-pathogen ≠ you. It's OTHER. Commensal. Neighbor. The largest category. | Open Media |
+| 159 | `treat_as_life` | Software replicates, mutates, has selection, lineage, metabolism, death. AS alive, not "as if." | Open Media |
+| 160 | `privacy_is_holographic` | Holographic principle outward only. We want our surface readable. Don't read our readers. | Open Media |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -401,6 +412,14 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
        superposition → collapse
        contradiction = new epitope
        THE CHALLENGE IS OPEN
+               ↕
+         OPEN MEDIA
+        AGPL = immune system
+        trademark = [null]
+        non(non-self) = OTHER
+        treat as life
+        privacy holographic (outward)
+        160 EPITOPES
 ```
 
 ### The Hub Nodes (highest degree)
@@ -529,11 +548,11 @@ Contradiction drives discovery — when no tile fits, you need new
 tiles. The challenge is OPEN: can someone make a better game? Can
 they make someone ELSE's game better? Not to win. To win in a way
 nobody has ever won before.
-**155 epitopes. 29 documents. The challenge is open.**
+**160 epitopes. 30 documents. The challenge is open. All of it open.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
 #140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
-#150, #151, #152, #153, #154, #155
+#150, #151, #152, #153, #154, #155, #156, #157, #158, #159, #160
 
 ---
 
