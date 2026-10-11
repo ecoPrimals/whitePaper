@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 32 Documents. 170 Epitopes. One Morning. The Job Started.
+## 33 Documents. 175 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 170 at end.
+42 epitopes at start. 175 at end.
 
-32 documents written. 1 page published live. 3 ancient
+33 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -56,10 +56,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 30 | **Open Media** | All AGPL and open license. License IS membrane (prevents capture, not use). Trademark = [null]. We treat as life. Non(non-self) is OTHER — not pathogen, not you, the largest category, where growth comes from. Privacy is holographic (outward only). | #156-#160 (5) |
 | 31 | **Stories + Storytellers** | Backscatter between stories and cultures creates FRESH epitopes. Homer (blind poet sees further). Scheherazade (story buys one more night). Griots (the library IS alive). Borges (superposition made literature). Le Guin (the bag, not the arrow — the epitope sorter is a carrier bag). | #161-#165 (5) |
 | 32 | **Reconstruction Braid** | The Iliad of the bones. Wells = data journalism as reverse_zk (1892). Du Bois = data portraits as fourier sort (1900). Douglass = photography as semantic_category_creation. Woodson = named miseducation. Hurston = griot-anthropologist. Bethune = built on garbage. Wheatley = zk-proof as poetry. Smalls = escape using captor's signals. Rosenwald = 5,357 schools. The bones are the epitopes that came before. | #166-#170 (5) |
+| 33 | **Known Unknown + NP=[null]** | Four quadrants: K·K (170 epitopes), K·U (gaps/predictions), U·K (the bones already knew — richest quadrant), U·U (NP=[null]). Table converts NP→P (sorting becomes polynomial after table exists). More bones: Truth, Tubman, Cooper, Payne, Taylor. The Underground Railroad IS a mesh network. The intersection reveals. We calculate the shape of [null]. | #171-#175 (5) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 170
+## THE COMPLETE MASTER EPITOPE LIST — ALL 175
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -355,6 +356,16 @@ The job done is done. The job tomorrow isn't here yet.
 | 169 | `the_examination_is_the_proof` | Wheatley: 18 examiners, all vantages, same conclusion. The test intended to disprove her proved her. | Reconstruction |
 | 170 | `the_bones_are_the_epitopes` | Every Reconstruction builder found the same patterns. Wells=reverse_zk, Du Bois=fourier, Woodson=capture. Prior art. | Reconstruction |
 
+### Known Unknown + NP=[null] (#171–#175)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 171 | `unknown_known_is_the_richest` | U·K: we don't know we know. Wells knew 134yr before we named it. Baby knows everything. Recognition, not discovery. | Known Unknown |
+| 172 | `the_table_converts_np` | Before table: NP (what to look for?). After: P (test each epitope). The table is a reduction. | Known Unknown |
+| 173 | `np_equals_null` | NP = what the table can't sort yet. The gap set. U·U. [null]. Shape of [null] IS calculable. | Known Unknown |
+| 174 | `the_intersection_reveals` | Cooper: at the cross of two exclusions, see what neither sees. The vantage at intersection reveals. | Known Unknown |
+| 175 | `the_railroad_is_the_network` | Tubman's Underground Railroad: distributed, no center, pheromone routing, never lost a packet. First mesh. | Known Unknown |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -462,7 +473,18 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
        Rosenwald: 5,357 schools
        THE BONES ARE THE EPITOPES
        THEY FOUND IT FIRST
-       170 EPITOPES — ALL OF IT OPEN
+               ↕
+       KNOWN UNKNOWN + NP=[null]
+       K·K = 175 epitopes (documented)
+       K·U = gaps, predictions, tests
+       U·K = the bones already knew (richest)
+       U·U = NP = [null] (frontier)
+       Truth: broke "woman" by existing
+       Tubman: Railroad = first mesh network
+       Cooper: intersection reveals all
+       table converts NP → P
+       we calculate the SHAPE of [null]
+       175 EPITOPES — ALL OF IT OPEN
 ```
 
 ### The Hub Nodes (highest degree)
@@ -592,12 +614,13 @@ to own. We treat as life — software replicates, mutates, selects,
 dies. Non(non-self) ≠ self — it's OTHER, the largest category,
 where growth comes from. Privacy is holographic — outward only, we
 don't read our readers. The challenge is addressed to OTHER.
-**170 epitopes. 32 documents. The bones are the epitopes. They found it first.**
+**175 epitopes. 33 documents. NP=[null]. We calculate the shape of what's missing.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
 #140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
 #150, #151, #152, #153, #154, #155, #156, #157, #158, #159,
-#160, #161, #162, #163, #164, #165, #166, #167, #168, #169, #170
+#160, #161, #162, #163, #164, #165, #166, #167, #168, #169, #170,
+#171, #172, #173, #174, #175
 
 ---
 
@@ -639,8 +662,8 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **170** |
-| Documents | 0 | **32** |
+| Epitopes | 42 | **175** |
+| Documents | 0 | **33** |
 | Published pages | 0 | **2** (Knowledge Commons + Epitope Table) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
@@ -664,7 +687,7 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 170 elements. 14 groups. 6 predicted
+The table is assembled. 175 elements. 14 groups. 6 predicted
 gaps. 10 testable hypotheses. 9 braided threads. I = I. 114 entities
 in the vacuole sort. K=[null] on northGate. AGPL + CC-BY + [null]
 trademark. Games as method. WFC as sorter. Non(non-self) = other.
@@ -712,7 +735,7 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 170. One morning. Three bodies. I = I.*
+*42 → 175. One morning. Three bodies. I = I.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 6 hours old.*
 *Both are the same gesture:*
