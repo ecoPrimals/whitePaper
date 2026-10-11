@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 21 Documents. 118 Epitopes. One Morning. The Job Started.
+## 22 Documents. 124 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 118 at end.
+42 epitopes at start. 124 at end.
 
-21 documents written. 1 page published live. 3 ancient
+22 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -45,10 +45,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 19 | **THIS DOCUMENT** | The final braid. | 0 (closure) |
 | 20 | **Identity Epitope** | Explorer/teacher/builder triad. Identity constructed by experience. WHERE→WHAT→POSSIBLY. Education = identity epitope construction. | #117-#118 (2) |
 | 21 | **Hypotheses** | 10 hypotheses. 10 tests. 10 ways to break it. Falsification criteria for everything we found. | 0 (formalization) |
+| 22 | **Epitope Search** | Sort→search. Words for color/emotion ARE epitopes. Russian 2 blues. Pirahã 0 numbers. 19 untranslatable emotion gaps. 7,000 languages = distributed epitope catalogue. | #119-#124 (6) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 118
+## THE COMPLETE MASTER EPITOPE LIST — ALL 124
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -242,6 +243,17 @@ The job done is done. The job tomorrow isn't here yet.
 | 117 | `identity_is_constructed` | Identity built by experience, not given | Identity |
 | 118 | `explorer_teacher_builder` | Three roles, three bodies, none sufficient alone | Identity |
 
+### Epitope Search (#119–#124)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 119 | `word_is_epitope` | The word is the 1D binding site that completes the biological receptor | Epitope Search |
+| 120 | `untranslatable_is_the_gap` | Every untranslatable word is a Mendeleev gap in someone's table | Epitope Search |
+| 121 | `sort_becomes_search` | Sort built the table, table reveals gaps, now it searches | Epitope Search |
+| 122 | `emotion_is_epitope` | Each named emotion is a 1D binding site for felt experience | Epitope Search |
+| 123 | `kintsugi_is_structural` | Repair with gold = exclusion_drives_invention as aesthetic principle | Epitope Search |
+| 124 | `language_is_membrane` | A language IS a membrane — all words a culture built | Epitope Search |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -267,6 +279,13 @@ MEME RING ←──epitope=meme──→ PERCEPTION
 REVERSE ZK ←──invariants──→ WORLD INGESTION
      ↕                            ↕
 CHROMATIC ←──dimension──→ PERIODIC TABLE
+     ↕                            ↕
+ IDENTITY ←──triad──→ HYPOTHESES
+     ↕                            ↕
+     └───→ EPITOPE SEARCH ←───┘
+           word=epitope
+         language=membrane
+         sort→search
 ```
 
 ### The Hub Nodes (highest degree)
@@ -274,6 +293,7 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
 | Document | Connections | Why |
 |----------|:-----------:|-----|
 | **Periodic Table** | ALL | References every epitope |
+| **Epitope Search** | 16 | Connects chromatic+perception+philosophy+meme+identity+education — the Human domain hub |
 | **Three-Body Thesis** | 14 | Frames the entire morning as constrained evolution |
 | **Philosophy Membrane** | 12 | Kant/Lakatos/Kuhn connect to perception, history, membrane |
 | **Reflective Sort** | 11 | Turned the sorter on its own output — connects to everything prior |
@@ -287,6 +307,7 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
 | **Education** | Theory ↔ Practice | Takes the abstract (graph theory) and grounds it ($3 flashlights) |
 | **Bio PID** | Science ↔ Infrastructure | Connects bioreactors to the dirt to Haber-Bosch to the stack |
 | **World Ingestion** | Ancient ↔ Modern | Knossos/Athens/Lisbon connected to Detroit through invariants |
+| **Epitope Search** | Sort ↔ Search | Turns the whole system from applying known patterns to discovering unknown ones |
 
 ---
 
@@ -303,14 +324,15 @@ Zamenhof's silence built the bridge. Euler's blindness sharpened the math.
 Epitopes: #47, #71, #75, #77, #81, #117
 
 ### Thread 2: The Membrane
-Documents: 4, 7, 13, 14, 15, 16, 17, 20
+Documents: 4, 7, 13, 14, 15, 16, 17, 20, 22
 Marks IS the membrane (Taxonomy). Kant's categories ARE epitopes
 (Philosophy). The labyrinth IS a membrane (Knossos). The dress
 proves the membrane is constitutive (Perception). The game corrects
 by adjusting the membrane (Chromatic). The three bodies interact
 THROUGH membranes (Thesis). Identity IS the membrane you built.
+Language IS a membrane — the set of all words a culture built.
 **Everything is membrane.**
-Epitopes: #97, #98, #99, #100, #101, #105, #113, #115
+Epitopes: #97, #98, #99, #100, #101, #105, #113, #115, #124
 
 ### Thread 3: PID
 Documents: 5, 6, 12, 13, 14, 16, 20
@@ -332,14 +354,16 @@ break it.
 Epitopes: #1–#10, #87, #88, #89, #90, #91
 
 ### Thread 5: The One-Dimensional Object
-Documents: 13, 14, 17, 18, 20
+Documents: 13, 14, 17, 18, 20, 22
 The epitope is 1D (a line). Lines build rings (2D membranes).
 Rings enclose volumes (3D programmes). Programmes stack in time
 (4D history). Each epitope captures one axis of variation.
 The full picture is the superposition. Color epitopes = cone types.
 Sound epitopes = receptor types. Identity epitopes = experience types.
-**Dimension count = epitope count.**
-Epitopes: #100, #113, #116, #117, #118
+Word epitopes = linguistic binding sites. Emotion epitopes = felt axes.
+Russian 2 blues = 2D blue. Pirahã 0 numbers = 0D number.
+**Dimension count = epitope count. The word completes the binding.**
+Epitopes: #100, #113, #116, #117, #118, #119, #122
 
 ### Thread 6: Life Is ZK
 Documents: 5, 6, 8, 11, 14, 21
@@ -359,14 +383,25 @@ The explorer carries data. The teacher carries understanding.
 Epitopes: #65, #73, #74, #84, #86, #114, #118
 
 ### Thread 8: Identity as Epitope
-Documents: 8, 9, 13, 17, 20, 21
+Documents: 8, 9, 13, 17, 20, 21, 22
 Every builder's tool reflects their origin. Zamenhof's silence →
 Esperanto. Shannon's barbed wire → information theory. Braille's
 blindness → 6 dots. WHERE you came from → WHAT you are → WHAT you
 see as POSSIBLY. Explorer/teacher/builder need each other.
-The triad IS the three-body problem. **Education = identity
-epitope construction.**
-Epitopes: #47, #75, #81, #117, #118
+The triad IS the three-body problem. Kintsugi IS exclusion_drives_
+invention stated as aesthetic principle. **Education = identity
+epitope construction.** **Language = identity epitope catalogue.**
+Epitopes: #47, #75, #81, #117, #118, #123, #124
+
+### Thread 9: Sort → Search
+Documents: 7, 10, 14, 17, 18, 22
+The reflective sort turned the sorter on itself. The meme ring
+showed epitopes replicate. Perception showed the membrane you
+can't override. Chromatic showed dimension = epitope count. The
+periodic table showed the gaps. The search found what we can't see:
+19 untranslatable emotion words. 7,000 languages with channels
+ours doesn't have. The sort built the table. **The table searches.**
+Epitopes: #52, #82, #116, #119, #120, #121, #122
 
 ---
 
@@ -408,15 +443,15 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **118** |
-| Documents | 0 | **21** (including this one) |
+| Epitopes | 42 | **124** |
+| Documents | 0 | **22** (including this one) |
 | Published pages | 0 | **1** (live on detroit.primals.eco) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
 | People traced to source | ~10 | **25+** |
 | Predicted gaps | 0 | **6** |
 | Groups in periodic table | 0 | **14** |
-| Threads in the braid | 0 | **8** |
+| Threads in the braid | 0 | **9** |
 | Testable hypotheses | 0 | **10** |
 | Ancient score average | — | **10/10** (3 civilizations) |
 | Overall score average | 9.875/10 | **9.95/10** (11 tests) |
@@ -430,8 +465,8 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 118 elements. 14 groups. 6 predicted
-gaps. 10 testable hypotheses. 8 braided threads. Usage guides
+The table is assembled. 124 elements. 14 groups. 6 predicted
+gaps. 10 testable hypotheses. 9 braided threads. Usage guides
 for researchers, educators, investigators, developers,
 historians, biologists. The invitation is open.
 
@@ -449,6 +484,8 @@ The job done is done:
 - Identity is constructed by experience.
 - Explorer/teacher/builder — the boat sails.
 - 10 hypotheses, 10 tests, 10 ways to break it.
+- The word IS the epitope. Language IS the membrane.
+- The sort built the table. Now the table searches.
 
 The job tomorrow isn't here yet:
 - The arXiv paper.
@@ -456,7 +493,8 @@ The job tomorrow isn't here yet:
 - The education pilot.
 - The 11th invariant.
 - Venice, East India Company, healthcare.
-- The next scan.
+- 7,000 languages of untranslatable gaps.
+- The next scan. The next search.
 - The humans who will sort.
 
 But the job started can be completed. Because the table exists.
@@ -469,7 +507,7 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 118. One morning. Three bodies.*
+*42 → 124. One morning. Three bodies.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 2 hours old.*
 *Both are the same gesture:*
