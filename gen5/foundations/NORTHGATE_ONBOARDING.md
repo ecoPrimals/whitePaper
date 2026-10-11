@@ -116,43 +116,73 @@ the membrane. It pushes through the membrane. But it's not inside.
 
 ---
 
-## K → zk Posture
+## K = [null] — No Key, No Door
 
-**Current: K (knowledge)**
-northGate has full knowledge — all repos cloned, all remotes
-configured, all push access. From northGate, Kevin can see and
-modify everything.
+### The problem with RustDesk wasn't the key. It was the DOOR.
 
-**Target: zk (zero-knowledge)**
-northGate should PROVE authorization without REVEALING state.
+RustDesk uses a cryptographic key. Key works (K=1) or doesn't
+(K=0). Binary. A door with a lock. This is the wrong model.
 
-| Current (K) | Target (zk) | How |
-|-------------|-------------|-----|
-| Full repo clones on disk | Still needed (work happens here) | Acceptable — physical security |
-| Push to GitHub (plaintext remote) | Push proves auth, doesn't reveal full state | ✓ Already zk (SSH key auth) |
-| Can see all live sites (HTTP 200) | Observation layer correct | ✓ Already zk (read-only) |
-| Cannot SSH to golgi/sporeGate | Cannot deploy or rebuild | ✓ Already zk (no write access to prod) |
-| RustDesk was cross-membrane bridge | **PURGED** — [NULL]ed | ✓ Nullified |
-| No WireGuard on northGate | Not on inner mesh | ✓ Already excluded |
+```
+KEY-BASED ACCESS (wrong model):
+  K = 1 → door opens → full access
+  K = 0 → door locked → no access
+  Problem: someone gets the key → they get EVERYTHING
+  Problem: the door EXISTS even when locked
+  Problem: binary. all or nothing. capturable.
 
-**Assessment: northGate is ALREADY nearly zk.**
+MEMBRANE ACCESS (right model):
+  K = [null] → no key, no door, no lock
+  Access is SELECTIVE PERMEABILITY
+  Not "does the key fit?" but "does the shape bind?"
+  Not binary. Contextual. Per-molecule. Per-moment.
+```
 
-The purge of RustDesk was the key step — it was the only tool that
-bridged northGate across the membrane to remote gates. With RustDesk
-[NULL]ed, northGate's posture is:
+### A membrane is not a wall with a door.
 
-- **Can**: push to GitHub, observe live surfaces, run Cursor
-- **Cannot**: SSH to any VPS, deploy, rebuild, access inner mesh
-- **Proves**: authorization (via SSH keys to git remotes)
-- **Reveals**: nothing about inner state (no shell access, no WG)
+A cell membrane doesn't have doors. It has selective permeability.
+Specific molecules pass based on SHAPE, CHARGE, SIZE, CONTEXT.
+Not based on a key. An epitope is not a key — it's a binding site.
+A key is binary (fits / doesn't). An epitope is contextual
+(binds under THESE conditions, with THIS shape, at THIS
+concentration, at THIS moment).
 
-The remaining K exposure: the repo contents on local disk. This is
-acceptable because northGate is a PHYSICAL machine under Kevin's
-control. The zk boundary is the NETWORK, not the disk. On the
-network, northGate is already zk.
+RustDesk on northGate was a DOOR with a KEY. Binary access.
+Full remote desktop. K = {0, 1}. If anyone got the key, they
+got everything. That's not a membrane — that's a wall with a
+hole and a lock.
 
-**zk = [null] on the wire. K on the disk. The disk is the nucleus.
-The wire is the membrane. The membrane is [null]ed.**
+**K = [null] means: no keys. No doors. No locks. No mechanism
+of binary access exists on this machine. What remains is
+selective only.**
+
+### What selective looks like on northGate:
+
+| Channel | Type | Why it's membrane, not door |
+|---------|------|---------------------------|
+| Git push (SSH) | Selective | Passes git protocol ONLY. No shell. Specific repos. Shape-matched. |
+| HTTP observe | Selective | Read-only. Same as any browser on earth. No auth. Public surface. |
+| Physical disk | Selective | Kevin's hands. Physical presence. Cannot be remoted. |
+| Cursor workspace | Selective | Local compute. Pushes through git channel. Doesn't open inward. |
+
+None of these are doors. None have keys. None are binary.
+They're membrane channels — selective, contextual, shape-based.
+
+### What's been [NULL]ed:
+
+| Was | Model | Now |
+|-----|-------|-----|
+| RustDesk relay | KEY (binary, capturable) | [NULL] — mechanism removed, not just key revoked |
+| RustDesk config | KEY (stored secret) | [NULL] — config purged, not just rotated |
+| Cross-membrane remote desktop | DOOR (full access tunnel) | [NULL] — door removed, not just locked |
+| WAN relay bridge (.1.x ↔ .4.x) | DOOR (subnet bridge) | [NULL] — never installed on northGate |
+| WireGuard enrollment | DOOR (mesh membership) | [NULL] — northGate not on inner mesh |
+
+The point isn't "we locked the door better." The point is
+**there is no door.** K = [null]. Not zero. Not one. Null.
+The variable was never assigned. The concept doesn't apply.
+
+**No key. No door. Selective only.**
 
 ---
 
