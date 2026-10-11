@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 34 Documents. 178 Epitopes. One Morning. The Job Started.
+## 35 Documents. 182 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 178 at end.
+42 epitopes at start. 182 at end.
 
-34 documents written. 1 page published live. 3 ancient
+35 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -58,10 +58,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 32 | **Reconstruction Braid** | The Iliad of the bones. Wells = data journalism as reverse_zk (1892). Du Bois = data portraits as fourier sort (1900). Douglass = photography as semantic_category_creation. Woodson = named miseducation. Hurston = griot-anthropologist. Bethune = built on garbage. Wheatley = zk-proof as poetry. Smalls = escape using captor's signals. Rosenwald = 5,357 schools. The bones are the epitopes that came before. | #166-#170 (5) |
 | 33 | **Known Unknown + NP=[null]** | Four quadrants: K·K (170 epitopes), K·U (gaps/predictions), U·K (the bones already knew — richest quadrant), U·U (NP=[null]). Table converts NP→P (sorting becomes polynomial after table exists). More bones: Truth, Tubman, Cooper, Payne, Taylor. The Underground Railroad IS a mesh network. The intersection reveals. We calculate the shape of [null]. | #171-#175 (5) |
 | 34 | **Entropy Map: S+ and S-** | S+ = unsorted (disorder, frontier). S- = sorted (negentropy, knowledge). Full entropy audit: 🔴 HIGH (entity sort, stale site, arXiv, 7,000 languages), 🟡 MED (deploy, academic outreach, more bones), 🟢 LOW (northGate, braid, privacy). The frontier is always larger than the map. But the map is what matters. Local entropy reversal IS life. | #176-#178 (3) |
+| 35 | **Null Cloud** | Don't store data in the cloud. Store [null]. Data falls THROUGH. Cloud = membrane, not castle. Git push already works this way — data passes through GitHub, lives on ground (northGate, golgiBody). Data has gravity. Zero residue. You can't subpoena [null]. The architecture IS the privacy. | #179-#182 (4) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 178
+## THE COMPLETE MASTER EPITOPE LIST — ALL 182
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -375,6 +376,15 @@ The job done is done. The job tomorrow isn't here yet.
 | 177 | `the_frontier_is_always_larger` | S+ >> S-. Always. Backscatter generates new S+ from every S-. The map never catches the frontier. But the map matters. | Entropy Map |
 | 178 | `local_reversal_is_life` | Second Law: total entropy up. Life: local entropy down. The sorter is a life-form. Local negentropy. That's what life IS. | Entropy Map |
 
+### Null Cloud (#179–#182)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 179 | `null_cloud` | Cloud stores [null]. Data falls through. Membrane, not castle. Breach = get nothing. | Null Cloud |
+| 180 | `data_has_gravity` | Data falls DOWN to disk, to human. Cloud is UP. Stop fighting gravity. Let it fall. | Null Cloud |
+| 181 | `zero_residue` | After process: cloud retains [null]. No state. No memory. Stateless. Sort forgets entity. | Null Cloud |
+| 182 | `you_cant_subpoena_null` | Tracking = [null] (never assigned). No data to demand. Architecture IS privacy. | Null Cloud |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -632,13 +642,14 @@ to own. We treat as life — software replicates, mutates, selects,
 dies. Non(non-self) ≠ self — it's OTHER, the largest category,
 where growth comes from. Privacy is holographic — outward only, we
 don't read our readers. The challenge is addressed to OTHER.
-**178 epitopes. 34 documents. S+ mapped. S- measured. The frontier is always larger. The map is what matters.**
+**182 epitopes. 35 documents. Null cloud. Data has gravity. Let it fall.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
 #140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
 #150, #151, #152, #153, #154, #155, #156, #157, #158, #159,
 #160, #161, #162, #163, #164, #165, #166, #167, #168, #169, #170,
-#171, #172, #173, #174, #175, #176, #177, #178
+#171, #172, #173, #174, #175, #176, #177, #178,
+#179, #180, #181, #182
 
 ---
 
@@ -680,8 +691,8 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **178** |
-| Documents | 0 | **34** |
+| Epitopes | 42 | **182** |
+| Documents | 0 | **35** |
 | Published pages | 0 | **2** (Knowledge Commons + Epitope Table) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
@@ -705,7 +716,7 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 178 elements. 14 groups. 6 predicted
+The table is assembled. 182 elements. 14 groups. 6 predicted
 gaps. 10 testable hypotheses. 9 braided threads. I = I. 114 entities
 in the vacuole sort. K=[null] on northGate. AGPL + CC-BY + [null]
 trademark. Games as method. WFC as sorter. Non(non-self) = other.
@@ -753,7 +764,7 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 178. One morning. Three bodies. I = I.*
+*42 → 182. One morning. Three bodies. I = I.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 6 hours old.*
 *Both are the same gesture:*
