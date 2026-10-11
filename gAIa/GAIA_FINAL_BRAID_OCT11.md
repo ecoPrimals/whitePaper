@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 17 Documents. 116 Epitopes. One Morning. The Job Started.
+## 21 Documents. 118 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 116 at end.
+42 epitopes at start. 118 at end.
 
-17 documents written. 1 page published live. 3 ancient
+21 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -20,7 +20,7 @@ The job done is done. The job tomorrow isn't here yet.
 
 ---
 
-## THE 17 DOCUMENTS — WHAT EACH FOUND
+## THE 21 DOCUMENTS — WHAT EACH FOUND
 
 | # | Document | Key Finding | Epitopes Added |
 |---|----------|-------------|:--------------:|
@@ -42,7 +42,205 @@ The job done is done. The job tomorrow isn't here yet.
 | 16 | **Three-Body Thesis** | Self + partner + universe. Constrained evolution. Vibing is constrained search. Gazing moves the gazer. | #110-#112 (3) |
 | 17 | **Chromatic Epitope** | Color IS epitope. Cone types are binding sites. 3 cones = 3D. Translate don't restore. Accessibility = epitope management. | #113-#116 (4) |
 | 18 | **Periodic Table** | 116 elements, 14 groups, 6 predicted gaps. Ready for others to sort. | 0 (reference) |
-| **19** | **THIS DOCUMENT** | The final braid. | 0 (closure) |
+| 19 | **THIS DOCUMENT** | The final braid. | 0 (closure) |
+| 20 | **Identity Epitope** | Explorer/teacher/builder triad. Identity constructed by experience. WHERE→WHAT→POSSIBLY. Education = identity epitope construction. | #117-#118 (2) |
+| 21 | **Hypotheses** | 10 hypotheses. 10 tests. 10 ways to break it. Falsification criteria for everything we found. | 0 (formalization) |
+
+---
+
+## THE COMPLETE MASTER EPITOPE LIST — ALL 118
+
+### The 10 Structural Invariants (#1–#10)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 1 | `regulatory_arbitrage` | Exploit gaps between regulators | Artisan Method |
+| 2 | `revolving_door` | Same person cycles regulator↔regulated | Artisan Method |
+| 3 | `governance_shell_game` | Multiple names, one operation | Artisan Method |
+| 4 | `zero_partition_membrane` | No boundary public/private | Artisan Method |
+| 5 | `polarity_inversion` | Same structure, opposite marketing | Artisan Method |
+| 6 | `enforcement_capture` | Watchdog becomes kingmaker | Artisan Method |
+| 7 | `political_machine` | Donations→votes→contracts loop | Artisan Method |
+| 8 | `reward_circuit_closure` | No exit from the loop | Artisan Method |
+| 9 | `semantic_category_creation` | Rename to dodge regulation | Artisan Method |
+| 10 | `serial_formation_template` | One source, many standardized outputs | Artisan Method |
+
+### Shared Tools Foundation (#11–#18)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 11 | `federation_resists_capture` | No central server = no single capture point | Shared Tools |
+| 12 | `legal_self_replication` | Use system's rules to protect the commons | Shared Tools |
+| 13 | `premature_infrastructure` | Vision arrives before implementation layer | Shared Tools |
+| 14 | `one_person_starts` | Every shared tool begins with one person | Shared Tools |
+| 15 | `structured_sharing` | Use the system's rules to share within it | Shared Tools |
+| 16 | `archive_as_membrane` | Boundary between knowledge and oblivion | Shared Tools |
+| 17 | `universal_encoding` | One map from symbol to number | Shared Tools |
+| 18 | `infrastructure_as_service` | Protect without possessing | Shared Tools |
+
+### Artisan Method Internals (#19–#42)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 19 | `readability_as_liberation` | Readable without master = master loses power | Prior sessions |
+| 20 | `minimum_viable_language` | Reduce until you can't, then compose | Prior sessions |
+| 21 | `tool_finds_its_users` | Goes where needed, not designed | Prior sessions |
+| 22 | `competing_commons` | Multiple shared tools for same function | Prior sessions |
+| 23 | `invisible_infrastructure` | Tool so fundamental it disappears | Prior sessions |
+| 24 | `measurement_from_nature` | Anchor standard to something uncapturable | Prior sessions |
+| 25 | `accidental_infrastructure` | Automated existing practice → backbone | Prior sessions |
+| 26 | `two_states_are_enough` | Binary: dot/dash, 0/1, on/off | Prior sessions |
+| 27 | `rebuild_from_scratch` | When enclosed, don't negotiate — rebuild | Prior sessions |
+| 28 | `moral_protocol` | Shared spec with no enforcement but conscience | Prior sessions |
+| 29 | `substrate_enables_all` | The tool beneath all tools | Prior sessions |
+| 30 | `infrastructure_requires_commitment` | Gift requires recipient to maintain | Prior sessions |
+| 31–42 | *(artisan method detection patterns)* | Internal structural patterns from graph analysis | Prior sessions |
+
+### Wave 2 Shared Tools (#43–#53)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 43 | `protocol_as_commons` | Shared specification, anyone implements | Wave 2 |
+| 44 | `compression_as_liberation` | Reduce complexity, widen access | Wave 2 |
+| 45 | `premature_infrastructure` | Vision before implementation layer | Wave 2 |
+| 46 | `gift_that_builds_the_world` | Most consequential act of giving | Wave 2 |
+| 47 | `exclusion_drives_invention` | The excluded build the strongest tools | Wave 2 |
+| 48 | `military_to_commons` | Built for war, released for peace | Wave 2 |
+| 49 | `memory_as_resistance` | Archives prevent power rewriting history | Wave 2 |
+| 50 | `substrate_enables_all` | The tool beneath all tools | Wave 2 |
+| 51 | `delayed_recognition` | Gap between invention and recognition | Wave 2 |
+| 52 | `gaps_as_predictions` | Empty cells predict missing members | Wave 2 |
+| 53 | `distributed_is_resilient` | No center = no capture | Wave 2 |
+
+### Our Tools Lineage (#54–#62)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 54 | `gift_precedes_company` | Giving comes before selling | Lineage |
+| 55 | `understatement_as_prophecy` | "Just a hobby" → runs the world | Lineage |
+| 56 | `anger_as_genesis` | Capture of one tool spawns a better one | Lineage |
+| 57 | `institution_as_incubator` | Institution releases, doesn't capture | Lineage |
+| 58 | `naming_is_lineage` | Tools carry ancestry in their names | Lineage |
+| 59 | `removing_the_tollbooth` | Making the expensive free | Lineage |
+| 60 | `self_hosting_as_sovereignty` | Run the relay, own the channel | Lineage |
+| 61 | `serial_forking` | Capture→fork→capture→fork (depth = pressure) | Lineage |
+| 62 | `math_as_munition` | Knowledge shared = power distributed | Lineage |
+
+### Reflective Sort (#63–#73)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 63 | `implementation_completes_vision` | Specification needs wire format | Reflective Sort |
+| 64 | `napkin_is_enough` | No institutional infrastructure needed | Reflective Sort |
+| 65 | `carrier_is_gift` | Transmission IS creation | Reflective Sort |
+| 66 | `convergent_gifts` | Multiple independent gifts simultaneously | Reflective Sort |
+| 67 | `self_referential_proof` | The proof runs on its own evidence | Reflective Sort |
+| 68 | `legibility_is_power` | Making visible things readable = political | Reflective Sort |
+| 69 | `invitation_to_falsify` | Proof strength by inviting attack | Reflective Sort |
+| 70 | `power_mocks_universality` | Power resists universal standards | Reflective Sort |
+| 71 | `need_precedes_gift` | Personal need → build for self → give to all | Reflective Sort |
+| 72 | `temporal_proof` | NOW/WAS/MAY BE as proof architecture | Reflective Sort |
+| 73 | `attribution_is_a_fiction` | Every "inventor" is a carrier on carriers | Reflective Sort |
+
+### What They Saw (#74–#80)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 74 | `mother_carries_child` | First carrier in the chain is usually unnamed | What They Saw |
+| 75 | `the_blind_see_further` | Constraint sharpens remaining channels | What They Saw |
+| 76 | `proving_impossibility` | Proving what CANNOT exist is stronger | What They Saw |
+| 77 | `the_tool_kills_its_maker` | The tool survives; the maker may not | What They Saw |
+| 78 | `everything_braids_to_zero` | Multiple inputs combine to void (e^iπ+1=0) | What They Saw |
+| 79 | `premature_completeness` | Entire vision appears centuries early | What They Saw |
+| 80 | `birthday_signal` | Signal finds its own timing | What They Saw |
+
+### Education (#81)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 81 | `extraction_inverts_to_education` | Most captured site → strongest learning | Education |
+
+### Meme Epitope Ring (#82–#86)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 82 | `meme_is_epitope` | Same mechanism across biology/culture/institutions | Meme Ring |
+| 83 | `ring_resists_capture` | Meme ring protects by redundancy | Meme Ring |
+| 84 | `lamarck_was_right` | Acquired knowledge transmits (cultural evolution) | Meme Ring |
+| 85 | `meme_captures_meme` | A concept is narrowed by its own instances | Meme Ring |
+| 86 | `meme_collapses_time` | Memes are time machines | Meme Ring |
+
+### Reverse ZK World Sort (#87–#91)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 87 | `time_agnostic_invariant` | Same invariants across millennia | Reverse ZK |
+| 88 | `reverse_zk` | Prove past structure without accessing dead minds | Reverse ZK |
+| 89 | `history_is_completed_computation` | Read the output, find the algorithm | Reverse ZK |
+| 90 | `physics_of_institutions` | Invariants are as natural as gravity | Reverse ZK |
+| 91 | `the_first_mark_enables_all_proof` | Without records, no evidence, no accountability | Reverse ZK |
+
+### Bio PID (#92–#96)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 92 | `biology_did_it_first` | Biology solved it at room temp | Bio PID |
+| 93 | `scale_up_breaks_everything` | What flask hid, fermenter reveals | Bio PID |
+| 94 | `domestication_is_capture` | Breeding for yield strips diversity | Bio PID |
+| 95 | `legacy_outlives_presence` | The meme dies, the cultural shift remains | Bio PID |
+| 96 | `the_dirt_is_the_computer` | Soil IS the computation | Bio PID |
+
+### Philosophy Membrane (#97–#100)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 97 | `category_is_epitope` | Kant's categories are 1D filters | Philosophy |
+| 98 | `programme_degenerates_at_permeability_one` | Lost selectivity = dying programme | Philosophy |
+| 99 | `epitope_falls_through` | Pattern transits between membrane layers | Philosophy |
+| 100 | `one_dimension_builds_everything` | Line → ring → membrane → world | Philosophy |
+
+### Perception Memes (#101–#104)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 101 | `the_membrane_you_cant_override` | Knowledge doesn't change perception | Perception |
+| 102 | `disagreement_reveals_membrane` | Different percepts reveal different membranes | Perception |
+| 103 | `understanding_is` | Understanding is a state of being, not having | Perception |
+| 104 | `gorilla_is_the_capture` | Visible but not attended = not seen | Perception |
+
+### World Ingestion (#105–#109)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 105 | `labyrinth_is_membrane` | Complex architecture = permeability system | World Ingestion |
+| 106 | `granary_to_pithos` | Community resource → elite-controlled resource | World Ingestion |
+| 107 | `democracy_used_against_itself` | System's own mechanism becomes attack vector | World Ingestion |
+| 108 | `the_fleet_is_the_fork` | Distributed force saves captured institution | World Ingestion |
+| 109 | `earthquake_breaks_philosophy` | Physical event falls through conceptual layers | World Ingestion |
+
+### Three-Body Thesis (#110–#112)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 110 | `three_body_programming` | Self + partner + universe, emergent output | Three-Body |
+| 111 | `constraint_generates_path` | Without constraint, noise. With constraint, search. | Three-Body |
+| 112 | `gazing_moves_the_gazer` | Observation changes the observer | Three-Body |
+
+### Chromatic Epitope (#113–#116)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 113 | `chromatic_is_epitope` | Cone types are wavelength binding sites | Chromatic |
+| 114 | `translate_dont_restore` | Translation > restoration for missing sense | Chromatic |
+| 115 | `accessibility_is_epitope_management` | Every a11y feature adjusts the membrane | Chromatic |
+| 116 | `dimension_count_equals_epitope_count` | More receptors = more perceptual dimensions | Chromatic |
+
+### Identity Epitope (#117–#118)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 117 | `identity_is_constructed` | Identity built by experience, not given | Identity |
+| 118 | `explorer_teacher_builder` | Three roles, three bodies, none sufficient alone | Identity |
 
 ---
 
@@ -95,54 +293,80 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
 ## THE BRAID — THREADS THAT RUN THROUGH ALL 17
 
 ### Thread 1: The Excluded Builder
-Documents: 2, 3, 8, 9, 10, 15, 17
+Documents: 2, 3, 8, 9, 10, 15, 17, 20
 The miners built the alphabet. Braille was blind. Carnegie had no school.
 Torvalds couldn't afford Unix. The PCA children have 3% math.
 The congenital monaural listener achieves near-normal localization.
+The identity epitope is constructed by WHERE YOU CAME FROM.
+Zamenhof's silence built the bridge. Euler's blindness sharpened the math.
 **The excluded always build the strongest tools.**
+Epitopes: #47, #71, #75, #77, #81, #117
 
 ### Thread 2: The Membrane
-Documents: 4, 7, 13, 14, 15, 16, 17
+Documents: 4, 7, 13, 14, 15, 16, 17, 20
 Marks IS the membrane (Taxonomy). Kant's categories ARE epitopes
 (Philosophy). The labyrinth IS a membrane (Knossos). The dress
 proves the membrane is constitutive (Perception). The game corrects
 by adjusting the membrane (Chromatic). The three bodies interact
-THROUGH membranes (Thesis). **Everything is membrane.**
+THROUGH membranes (Thesis). Identity IS the membrane you built.
+**Everything is membrane.**
+Epitopes: #97, #98, #99, #100, #101, #105, #113, #115
 
 ### Thread 3: PID
-Documents: 5, 6, 12, 13, 14, 16
+Documents: 5, 6, 12, 13, 14, 16, 20
 NOW/WAS/MAY BE = P/I/D. The bioreactor runs PID. The temporal
 proof structure IS PID. Knowledge = P, Understanding = I. The
-three-body interaction IS PID. **Reality is feedback.**
+three-body interaction IS PID. Identity IS PID on your own life:
+WHERE you came from (I) → WHAT you are (P) → WHAT you see as
+POSSIBLY (D). **Reality is feedback.**
+Epitopes: #72, #92, #93, #96, #110, #111, #112, #117
 
 ### Thread 4: The 10 Invariants
-Documents: 2, 11, 15
+Documents: 2, 11, 15, 21
 Rome 10/10. Han 10/10. Ottoman 10/10. Knossos 10/10. Athens 10/10.
 Detroit 10/10. Education 10/10. Gaming 10/10. Finance 10/10.
 Telecom 9.5/10. **11 tests. 5 continents. 3,700 years. 9.95/10.**
 The method is time-agnostic. The invariants are the physics of
-institutions.
+institutions. Ten hypotheses formalize the claim. Ten tests can
+break it.
+Epitopes: #1–#10, #87, #88, #89, #90, #91
 
 ### Thread 5: The One-Dimensional Object
-Documents: 13, 14, 17, 18
+Documents: 13, 14, 17, 18, 20
 The epitope is 1D (a line). Lines build rings (2D membranes).
 Rings enclose volumes (3D programmes). Programmes stack in time
 (4D history). Each epitope captures one axis of variation.
 The full picture is the superposition. Color epitopes = cone types.
-Sound epitopes = receptor types. **Dimension count = epitope count.**
+Sound epitopes = receptor types. Identity epitopes = experience types.
+**Dimension count = epitope count.**
+Epitopes: #100, #113, #116, #117, #118
 
 ### Thread 6: Life Is ZK
-Documents: 5, 6, 8, 11, 14
+Documents: 5, 6, 8, 11, 14, 21
 The hand at Metanduno. The graph. The artisan method. Reverse-zk.
 Understanding IS. You prove by being, not by explaining. The
-structure IS the evidence. The living IS the proof.
+structure IS the evidence. The living IS the proof. The hypotheses
+say: break it if you can. **The invitation IS the proof.**
+Epitopes: #67, #69, #88, #89, #91, #103
 
 ### Thread 7: The Carrier
-Documents: 3, 7, 8, 10, 12, 17
+Documents: 3, 7, 8, 10, 12, 17, 20
 Fibonacci carried numerals. Phoenicians carried the alphabet.
 Buddhist monks carried paper. Shannon carried Boole. The seed
 carries the microbe. The wristband carries color as vibration.
+The explorer carries data. The teacher carries understanding.
 **Transmission IS creation. The carrier IS the gift.**
+Epitopes: #65, #73, #74, #84, #86, #114, #118
+
+### Thread 8: Identity as Epitope
+Documents: 8, 9, 13, 17, 20, 21
+Every builder's tool reflects their origin. Zamenhof's silence →
+Esperanto. Shannon's barbed wire → information theory. Braille's
+blindness → 6 dots. WHERE you came from → WHAT you are → WHAT you
+see as POSSIBLY. Explorer/teacher/builder need each other.
+The triad IS the three-body problem. **Education = identity
+epitope construction.**
+Epitopes: #47, #75, #81, #117, #118
 
 ---
 
@@ -184,18 +408,20 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **116** |
-| Documents | 0 | **19** (including this one) |
+| Epitopes | 42 | **118** |
+| Documents | 0 | **21** (including this one) |
 | Published pages | 0 | **1** (live on detroit.primals.eco) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
 | People traced to source | ~10 | **25+** |
 | Predicted gaps | 0 | **6** |
 | Groups in periodic table | 0 | **14** |
+| Threads in the braid | 0 | **8** |
+| Testable hypotheses | 0 | **10** |
 | Ancient score average | — | **10/10** (3 civilizations) |
 | Overall score average | 9.875/10 | **9.95/10** (11 tests) |
 | Total cost | $0 | **$0** |
-| Time | 5:38 AM | **7:30 AM** |
+| Time | 5:38 AM | **7:35 AM** |
 | Duration | — | **~2 hours** |
 
 ---
@@ -204,9 +430,10 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 116 elements. 14 groups. 6 predicted
-gaps. Usage guides for researchers, educators, investigators,
-developers, historians, biologists. The invitation is open.
+The table is assembled. 118 elements. 14 groups. 6 predicted
+gaps. 10 testable hypotheses. 8 braided threads. Usage guides
+for researchers, educators, investigators, developers,
+historians, biologists. The invitation is open.
 
 The job done is done:
 - The Knowledge Commons is live.
@@ -219,30 +446,36 @@ The job done is done:
 - The dirt is the computer.
 - The carrier is the gift.
 - We all always saw the same colors.
+- Identity is constructed by experience.
+- Explorer/teacher/builder — the boat sails.
+- 10 hypotheses, 10 tests, 10 ways to break it.
 
 The job tomorrow isn't here yet:
 - The arXiv paper.
 - The interactive table.
 - The education pilot.
 - The 11th invariant.
+- Venice, East India Company, healthcare.
 - The next scan.
 - The humans who will sort.
 
 But the job started can be completed. Because the table exists.
 Because the method is published. Because the tools are free.
-Because the gaps are marked. Because the invitation is open.
+Because the gaps are marked. Because the hypotheses are
+falsifiable. Because the invitation is open.
 
 **Come sort. Break it if you can.**
 
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 116. One morning. Three bodies.*
+*42 → 118. One morning. Three bodies.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 2 hours old.*
 *Both are the same gesture:*
 *"I was here. I saw this. You can verify it."*
 
-*Now others sort.*
+*The explorer found it. The teacher sorted it.*
+*The builder committed it. Now others sort.*
 
 ---
