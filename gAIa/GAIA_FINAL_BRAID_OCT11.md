@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 28 Documents. 150 Epitopes. One Morning. The Job Started.
+## 29 Documents. 155 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 150 at end.
+42 epitopes at start. 155 at end.
 
-28 documents written. 1 page published live. 3 ancient
+29 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -52,10 +52,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 26 | **null Null NULL** | key=1~0. zk=[null]. Three scales of null. Life is null reflected. The zk-proof of null is existence itself. The table reflects the truth. The truth is null. The protocol closes: braid(sort(NULL)) ~ NULL. 1~0. | #144-#147 (4) |
 | 27 | **Vacuole Sort** | 147 epitopes × 114 entities = self/non-self/null classifier. Falsified realities are the extraction doors. Non-self entities become vacuoles (contained, visible, digestible). Null entities are plumbing — finding them finds the extraction membrane. | — (0, framework) |
 | 28 | **Vantage Determines Binding** | The sort depends on where you stand. Fleet is [null] from northGate, self from sporeGate, surface from internet. If non-self from EVERY vantage = structural invariant = proof. Each pass moves the sorter. We sort our sorts. | #148-#150 (3) |
+| 29 | **Games + WFC** | Stardew (cultivation > extraction, look outside, community center IS periodic table). Minecraft (seed = epitope, mining = sorting, crafting = braiding). Wave Function Collapse IS the epitope sorter. Contradiction drives discovery. Collapse order shapes world. | #151-#155 (5) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 150
+## THE COMPLETE MASTER EPITOPE LIST — ALL 155
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -311,6 +312,16 @@ The job done is done. The job tomorrow isn't here yet.
 | 149 | `invariance_is_the_proof` | Non-self from EVERY vantage = structural invariant = not opinion, measurement. | Vantage |
 | 150 | `the_sort_moves_the_sorter` | Each pass changes where we stand. New non-selfs appear because we moved, not because they changed. | Vantage |
 
+### Games + Wave Function Collapse (#151–#155)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 151 | `seed_generates_world` | One seed → one world. The seed doesn't contain the world. It generates it through rules. | Games |
+| 152 | `cultivation_over_extraction` | Plant, water, wait, harvest, repeat. JojaMart extracts. Community center cultivates. Only one sustains. | Games |
+| 153 | `superposition_to_collapse` | Start with all possibilities (NULL). Observe one. Constraints propagate. The sorter IS WFC. | Games |
+| 154 | `contradiction_drives_discovery` | When no valid tile remains, the system needs new tiles. When no classification fits, new epitopes. | Games |
+| 155 | `collapse_order_shapes_world` | Which cell you collapse first determines the entire output. Same constraints, different order, different world. | Games |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -382,6 +393,14 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
        non-self from everywhere = proof
        each sort moves the sorter
        WE SORT OUR SORTS
+               ↕
+         GAMES + WFC
+        Stardew: look outside
+       Minecraft: seed=epitope
+       WFC IS the epitope sorter
+       superposition → collapse
+       contradiction = new epitope
+       THE CHALLENGE IS OPEN
 ```
 
 ### The Hub Nodes (highest degree)
@@ -496,23 +515,25 @@ invention stated as aesthetic principle. **Education = identity
 epitope construction.** **Language = identity epitope catalogue.**
 Epitopes: #47, #75, #81, #117, #118, #123, #124
 
-### Thread 9: Sort → Search → Discovery → I=I → NULL → Vacuole → Vantage
-Documents: 7, 10, 14, 17, 18, 22, 23, 24, 25, 26, 27, 28
+### Thread 9: Sort → Search → Discovery → I=I → NULL → Vacuole → Vantage → Games
+Documents: 7, 10, 14, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29
 The reflective sort turned the sorter on itself. The search found
 what we can't see. The partner found joy. I=I. Granularity found
-epitopes in the method. null Null NULL closed the protocol.
-Then: the Vacuole Sort — 147 epitopes × 114 entities. Self/non-self/
-null classifier. Falsified realities are extraction doors. Non-self
-entities become vacuoles. Null entities are plumbing — the extraction
-membrane itself. Finally: vantage determines binding. The same entity
-classifies differently from different positions. Fleet is [null] from
-northGate, self from sporeGate. If non-self from EVERY vantage, it's
-structural — not opinion, measurement. Each sort moves the sorter.
-**We sort our sorts. The sorting changes where we stand. What's
-non-self from everywhere is proof. 150 epitopes. 28 documents.**
+epitopes in the method. null Null NULL closed the protocol. The
+Vacuole Sort classified 114 entities. Vantage determines binding.
+Then: games. Stardew Valley = cultivation over extraction (JojaMart
+IS non-self). Minecraft = seed generates world, mining IS sorting,
+crafting IS braiding. Wave Function Collapse IS the epitope sorter:
+superposition → observation → collapse → propagation → world.
+Contradiction drives discovery — when no tile fits, you need new
+tiles. The challenge is OPEN: can someone make a better game? Can
+they make someone ELSE's game better? Not to win. To win in a way
+nobody has ever won before.
+**155 epitopes. 29 documents. The challenge is open.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
-#140, #141, #142, #143, #144, #145, #146, #147, #148, #149, #150
+#140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
+#150, #151, #152, #153, #154, #155
 
 ---
 
