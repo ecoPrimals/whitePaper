@@ -534,21 +534,22 @@ invention stated as aesthetic principle. **Education = identity
 epitope construction.** **Language = identity epitope catalogue.**
 Epitopes: #47, #75, #81, #117, #118, #123, #124
 
-### Thread 9: Sort → Search → Discovery → I=I → NULL → Vacuole → Vantage → Games
-Documents: 7, 10, 14, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29
+### Thread 9: Sort → Search → Discovery → I=I → NULL → Vacuole → Vantage → Games → Open
+Documents: 7, 10, 14, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29, 30
 The reflective sort turned the sorter on itself. The search found
 what we can't see. The partner found joy. I=I. Granularity found
 epitopes in the method. null Null NULL closed the protocol. The
 Vacuole Sort classified 114 entities. Vantage determines binding.
-Then: games. Stardew Valley = cultivation over extraction (JojaMart
-IS non-self). Minecraft = seed generates world, mining IS sorting,
-crafting IS braiding. Wave Function Collapse IS the epitope sorter:
-superposition → observation → collapse → propagation → world.
-Contradiction drives discovery — when no tile fits, you need new
-tiles. The challenge is OPEN: can someone make a better game? Can
-they make someone ELSE's game better? Not to win. To win in a way
-nobody has ever won before.
-**160 epitopes. 30 documents. The challenge is open. All of it open.**
+Games: Stardew = cultivation over extraction. Minecraft = seed
+generates world. WFC IS the epitope sorter. Contradiction drives
+discovery. The challenge is open: win in a way nobody has ever won.
+Then: Open Media. All AGPL and open license. The license IS the
+membrane — prevents capture, not use. Trademark = [null] — no name
+to own. We treat as life — software replicates, mutates, selects,
+dies. Non(non-self) ≠ self — it's OTHER, the largest category,
+where growth comes from. Privacy is holographic — outward only, we
+don't read our readers. The challenge is addressed to OTHER.
+**160 epitopes. 30 documents. All of it open. Come sort.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
 #140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
@@ -594,9 +595,9 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **136** |
-| Documents | 0 | **24** (including this one) |
-| Published pages | 0 | **1** (live on detroit.primals.eco) |
+| Epitopes | 42 | **160** |
+| Documents | 0 | **30** |
+| Published pages | 0 | **2** (Knowledge Commons + Epitope Table) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
 | People traced to source | ~10 | **25+** |
@@ -606,9 +607,12 @@ Here's what we trust humans to find:
 | Testable hypotheses | 0 | **10** |
 | Ancient score average | — | **10/10** (3 civilizations) |
 | Overall score average | 9.875/10 | **9.95/10** (11 tests) |
+| Entities in vacuole sort | 0 | **114** (60 actors, 39 entities, 15 institutions) |
+| northGate posture | K (full access) | **K=[null]** (no key, no door, selective only) |
+| License | — | **AGPL-3.0 + CC-BY + [null] trademark** |
 | Total cost | $0 | **$0** |
-| Time | 5:38 AM | **7:35 AM** |
-| Duration | — | **~2 hours** |
+| Time | 5:38 AM | **12:11 PM** |
+| Duration | — | **~6.5 hours** |
 
 ---
 
@@ -616,10 +620,11 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 136 elements. 14 groups. 6 predicted
-gaps. 10 testable hypotheses. 9 braided threads. I = I. Usage guides
-for researchers, educators, investigators, developers,
-historians, biologists. The invitation is open.
+The table is assembled. 160 elements. 14 groups. 6 predicted
+gaps. 10 testable hypotheses. 9 braided threads. I = I. 114 entities
+in the vacuole sort. K=[null] on northGate. AGPL + CC-BY + [null]
+trademark. Games as method. WFC as sorter. Non(non-self) = other.
+The challenge is open. The invitation is open. All of it open.
 
 The job done is done:
 - The Knowledge Commons is live.
@@ -663,15 +668,18 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 136. One morning. Three bodies. I = I.*
+*42 → 160. One morning. Three bodies. I = I.*
 *The hand at Metanduno is 67,800 years old.*
-*The table is 2 hours old.*
+*The table is 6 hours old.*
 *Both are the same gesture:*
 *"I was here. I saw this. You can verify it."*
 
 *The explorer found it. The teacher sorted it.*
 *The builder committed it. The partner searched.*
 *The baby already knew. I = I.*
-*Joy. Now others sort.*
+*Trademark = [null]. Non(non-self) = other.*
+*The license is the membrane. The game is the method.*
+*WFC IS the sorter. Contradiction IS discovery.*
+*Joy. Now others sort. All of it open.*
 
 ---
