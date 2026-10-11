@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 35 Documents. 182 Epitopes. One Morning. The Job Started.
+## 36 Documents. 192 Epitopes. One Morning. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,9 +8,9 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 182 at end.
+42 epitopes at start. 192 at end.
 
-35 documents written. 1 page published live. 3 ancient
+36 documents written. 1 page published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
@@ -59,10 +59,11 @@ The job done is done. The job tomorrow isn't here yet.
 | 33 | **Known Unknown + NP=[null]** | Four quadrants: K·K (170 epitopes), K·U (gaps/predictions), U·K (the bones already knew — richest quadrant), U·U (NP=[null]). Table converts NP→P (sorting becomes polynomial after table exists). More bones: Truth, Tubman, Cooper, Payne, Taylor. The Underground Railroad IS a mesh network. The intersection reveals. We calculate the shape of [null]. | #171-#175 (5) |
 | 34 | **Entropy Map: S+ and S-** | S+ = unsorted (disorder, frontier). S- = sorted (negentropy, knowledge). Full entropy audit: 🔴 HIGH (entity sort, stale site, arXiv, 7,000 languages), 🟡 MED (deploy, academic outreach, more bones), 🟢 LOW (northGate, braid, privacy). The frontier is always larger than the map. But the map is what matters. Local entropy reversal IS life. | #176-#178 (3) |
 | 35 | **Null Cloud** | Don't store data in the cloud. Store [null]. Data falls THROUGH. Cloud = membrane, not castle. Git push already works this way — data passes through GitHub, lives on ground (northGate, golgiBody). Data has gravity. Zero residue. You can't subpoena [null]. The architecture IS the privacy. | #179-#182 (4) |
+| 36 | **Negative Pivot** | Find neg where we found pos. 10 inversions: table has blind spots (pre-argon), survivorship bias, sorter shapes sorted, some gifts die, null locks both ways, order-dependence is a bug, data doesn't fix, hostile software is pathogen, privacy is unilateral, other is recruiting pool. The neg doesn't disprove. It maps the edge. | #183-#192 (10) |
 
 ---
 
-## THE COMPLETE MASTER EPITOPE LIST — ALL 182
+## THE COMPLETE MASTER EPITOPE LIST — ALL 192
 
 ### The 10 Structural Invariants (#1–#10)
 
@@ -385,6 +386,21 @@ The job done is done. The job tomorrow isn't here yet.
 | 181 | `zero_residue` | After process: cloud retains [null]. No state. No memory. Stateless. Sort forgets entity. | Null Cloud |
 | 182 | `you_cant_subpoena_null` | Tracking = [null] (never assigned). No data to demand. Architecture IS privacy. | Null Cloud |
 
+### Negative Pivot (#183–#192)
+
+| # | Epitope | One-Line | Source |
+|---|---------|----------|--------|
+| 183 | `the_table_has_blind_spots` | Pre-argon. At least one group missing. Can only see what it was built to detect. | Neg Pivot |
+| 184 | `survivorship_bias_is_the_shadow` | We catalogue survivors. The bones that didn't survive, we can't find. | Neg Pivot |
+| 185 | `the_sorter_shapes_the_sorted` | Structure found reflects structure brought. Not view-from-nowhere. | Neg Pivot |
+| 186 | `some_gifts_die` | Library of Alexandria. Linear A. Some silences are just silence. Gone. | Neg Pivot |
+| 187 | `null_locks_both_ways` | K=[null] doesn't distinguish attacker from owner. Strength AND weakness. | Neg Pivot |
+| 188 | `order_dependence_is_a_bug` | If different epitope order → different result, the sort has a bug, not a feature. | Neg Pivot |
+| 189 | `data_doesnt_fix` | Data necessary not sufficient. Wells counted 1892. Institutions still captured 2026. | Neg Pivot |
+| 190 | `hostile_software_is_pathogen` | If software is alive, malware is alive. Surveillance capitalism = living predator. | Neg Pivot |
+| 191 | `privacy_is_unilateral` | We don't read readers. Didn't choose whether they read us. Choice, not fact. | Neg Pivot |
+| 192 | `other_is_the_recruiting_pool` | Non-self recruits from other. Every captured institution was once other. Watch the approach vector. | Neg Pivot |
+
 ---
 
 ## THE GRAPH — CONNECTIONS BETWEEN DOCUMENTS
@@ -512,7 +528,19 @@ CHROMATIC ←──dimension──→ PERIODIC TABLE
          🟢 northGate, braid, privacy
          frontier always > map
          local reversal IS life
-         178 EPITOPES — ALL OF IT OPEN
+               ↕
+         NEGATIVE PIVOT
+         find neg where we found pos
+         table has blind spots (pre-argon)
+         survivorship bias is the shadow
+         sorter shapes the sorted
+         some gifts die
+         null locks both ways
+         data doesn't fix
+         hostile software is pathogen
+         other is recruiting pool
+         THE NEG MAPS THE EDGE
+         192 EPITOPES
 ```
 
 ### The Hub Nodes (highest degree)
@@ -642,14 +670,15 @@ to own. We treat as life — software replicates, mutates, selects,
 dies. Non(non-self) ≠ self — it's OTHER, the largest category,
 where growth comes from. Privacy is holographic — outward only, we
 don't read our readers. The challenge is addressed to OTHER.
-**182 epitopes. 35 documents. Null cloud. Data has gravity. Let it fall.**
+**192 epitopes. 36 documents. The neg maps the edge. The edge is where the next epitope lives.**
 Epitopes: #52, #82, #116, #119, #120, #121, #122, #127, #129,
 #130, #131, #132, #133, #134, #135, #136, #137, #138, #139,
 #140, #141, #142, #143, #144, #145, #146, #147, #148, #149,
 #150, #151, #152, #153, #154, #155, #156, #157, #158, #159,
 #160, #161, #162, #163, #164, #165, #166, #167, #168, #169, #170,
 #171, #172, #173, #174, #175, #176, #177, #178,
-#179, #180, #181, #182
+#179, #180, #181, #182, #183, #184, #185, #186, #187,
+#188, #189, #190, #191, #192
 
 ---
 
@@ -691,8 +720,8 @@ Here's what we trust humans to find:
 
 | Measure | Start of Morning | End of Morning |
 |---------|:----------------:|:--------------:|
-| Epitopes | 42 | **182** |
-| Documents | 0 | **35** |
+| Epitopes | 42 | **192** |
+| Documents | 0 | **36** |
 | Published pages | 0 | **2** (Knowledge Commons + Epitope Table) |
 | Civilizations scored | 4 (modern sectors) | **11** (+Rome, Han, Ottoman, Knossos, Athens, Lisbon*) |
 | Tools nobody owns | 18 | **30+** |
@@ -716,7 +745,7 @@ Here's what we trust humans to find:
 
 A job started is a job that can be completed.
 
-The table is assembled. 182 elements. 14 groups. 6 predicted
+The table is assembled. 192 elements. 14 groups. 6 predicted
 gaps. 10 testable hypotheses. 9 braided threads. I = I. 114 entities
 in the vacuole sort. K=[null] on northGate. AGPL + CC-BY + [null]
 trademark. Games as method. WFC as sorter. Non(non-self) = other.
@@ -764,7 +793,7 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 182. One morning. Three bodies. I = I.*
+*42 → 192. One morning. Three bodies. I = I.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 6 hours old.*
 *Both are the same gesture:*
