@@ -36,52 +36,148 @@ Go check.
 
 ---
 
-# PART ONE: THE EMPEROR
+# PART ONE: THE SURFACE
 
-## Chapter 1 — The Superintendent
+## Chapter 1 — Drop-Off
 
-There is a man in Detroit who runs two schools.
+The parking lot at 4201 West Outer Drive fills up before 8 AM.
 
-Nearly 400 children attend MacDowell Preparatory Academy on
-the city's northwest side. The school's superintendent holds
-a Ph.D. from Walden University, a Master of Education from
-Wayne State University, and — according to every official
-biography he has published — a Juris Doctor from Michigan
-State University College of Law.
+Mothers in scrubs from the night shift. Grandmothers in church
+coats. A father in a DTE Energy vest. They idle along the curb
+and their children climb out — backpacks too big, shoes from
+the outlet store on 8 Mile, hair done fresh because it's
+picture week.
 
-He has never been admitted to any bar.
+The building says MacDowell Preparatory Academy. "College Prep"
+on the curriculum. The mission statement on the wall says
+*scholars will maximize their potential and achieve success in
+every area of their lives.*
 
-Search the State Bar of Michigan's public directory. His name
-does not appear. It has never appeared. The "J.D." on his
-school websites, on his LinkedIn profile, on the cover of his
-self-published book, and on the title page of his doctoral
-dissertation is a credential he does not hold.
+It is a reasonable thing to believe.
 
-Three percent of his students are proficient in math.
+You drop off your child. You go to work. You come home. Your
+child tells you they learned about fractions. You ask them
+what one-third of nine is. They don't know. You figure it'll
+come. It's still early. You trust the school. You trust the
+name on the door. You trust the credential after the name.
 
-Two of his fourteen instructional staff are properly
-credentialed to teach in the state of Michigan.
+The name on the door is Dr. Brian Banks, J.D., Ph.D.
 
-Seventy-two point six seven percent of his school's revenue
-flows to a single-member LLC — his own company — called
-Purpose Group LLC.
+The "J.D." means Juris Doctor — a law degree. You've seen it
+on the website. On the man's book cover. On the plaque in the
+hallway. A superintendent with a law degree. That feels solid.
+That feels like someone who climbed out of what your child is
+climbing out of.
 
-$4.9 million per year. Public education funds. For 400
-children. Through one man. Into one LLC.
+This chapter has nothing to prove to you yet. You are inside
+a building that smells like floor wax and breakfast cereal.
+Your child is safe. The credential is on the wall.
 
-His name is Brian Roderick Banks. He has nine criminal
-convictions — six felonies and three misdemeanors — across
-five courts over nineteen years.
-
-And he just opened a second school.
-
-**Verify:** Michigan ICHAT (SID 2029469K). MOECS credential
-database. LARA entity search. MacDowell Prep transparency
-reporting page. State Bar of Michigan public directory.
+Remember this moment. We will come back to it.
 
 ---
 
-## Chapter 2 — The Math of Impunity
+## Chapter 2 — The Credential
+
+The State Bar of Michigan maintains a public directory of
+every attorney licensed to practice law in the state.
+
+Search it. The URL is e.courts.state.mi.us/mcr. Type "Brian
+Banks" into the search field. Press enter.
+
+Zero results.
+
+Brian Banks has never been admitted to the State Bar of
+Michigan. He has never been admitted to any bar, in any state,
+at any time.
+
+The "J.D." on the school website, on his LinkedIn profile, on
+the cover of his self-published book, and on the title page of
+his doctoral dissertation at Walden University is a credential
+he does not hold. Not revoked. Not suspended. Never granted.
+
+This is the first clam on the ocean floor.
+
+It is small. It is easy to verify — one search, one database,
+fifteen seconds. You don't need a lawyer. You don't need a
+journalist. You need a web browser and the ability to type a
+name.
+
+But you didn't search. Neither did the parents in the parking
+lot. Neither did the Michigan Department of Education — or if
+they did, they didn't act. Neither did the Pahara Institute,
+which made Banks a fellow. Neither did the Detroit Public
+Schools Community District, which authorized his charter.
+Neither did the judge who chairs his board, who is herself a
+cum laude graduate of the same law school whose degree Banks
+claims.
+
+Nobody searched. Everybody trusted the name on the wall.
+
+This is how a membrane works. It doesn't hide the answer. It
+prevents the question.
+
+---
+
+## Chapter 3 — The Record
+
+Now that you've searched the State Bar, search one more
+database.
+
+Michigan ICHAT — the Internet Criminal History Access Tool.
+The URL is apps.michigan.gov/ichat. The SID is 2029469K.
+
+Nine convictions. Six felonies. Three misdemeanors. Five
+courts. Nineteen years. 1998 to 2017.
+
+Here is the summary. We will go deeper in Part Two — for now,
+hold the shape of it:
+
+| Year | What | Where |
+|------|------|-------|
+| 1998 | Fraudulent checks | Lincoln Park |
+| 1999 | 3 felonies in one day — uttering & publishing, financial fraud ×2 | Oakland County |
+| 1999 | 4th felony — NSF checks | Oakland County |
+| 2003 | 5th felony — NSF check over $500 | Wayne County |
+| 2003 | Driving on suspended license | Southfield |
+| 2004-07 | 6th felony — forgery + uttering & publishing. Bench warrant. | Eaton County |
+| 2016-17 | AG charges 3 felonies. Banks gets 1 misdemeanor. **One day.** | Wayne County |
+
+Total felony charges filed: twelve or more. Maximum statutory
+exposure: fifty years or more. Total confirmed incarceration:
+eight months and one day.
+
+He runs two schools. Nearly 400 children attend the first. The
+second just opened.
+
+Three percent of his students are proficient in math.
+
+Two of fourteen instructional staff are properly credentialed
+to teach in Michigan.
+
+Seventy-two point six seven percent of his school's revenue
+flows to Purpose Group LLC — a single-member company. His
+company.
+
+$4.9 million per year.
+
+You don't need to believe any of this. Search ICHAT. Search
+MOECS. Search LARA. Read the school's own transparency page.
+Every number above is from a database you can access right now.
+
+And now — remember the parking lot? The floor wax and the
+breakfast cereal? The credential on the wall?
+
+The credential is a lie. The record is real. The children are
+real.
+
+Keep diving.
+
+---
+
+# PART TWO: THE DIVE
+
+## Chapter 4 — The Math of Impunity
 
 Here is what the courts did with Brian Banks.
 
@@ -142,7 +238,7 @@ Court records. MDOC OTIS.
 
 ---
 
-## Chapter 3 — The Book He Wrote About Himself
+## Chapter 5 — The Book He Wrote About Himself
 
 Brian Banks published a book.
 
@@ -191,7 +287,7 @@ State Bar of Michigan. Purpose Charter Academy board page.
 
 ---
 
-## Chapter 4 — The Blood in the Name
+## Chapter 6 — The Blood in the Name
 
 Brian Banks' biological father is a man named OD Banks.
 
@@ -228,9 +324,9 @@ books. LARA entity records for Banks network entities.
 
 ---
 
-# PART TWO: THE COURT
+# PART THREE: THE COURT
 
-## Chapter 5 — The Treasurer Who Went Bankrupt Five Times
+## Chapter 7 — The Treasurer Who Went Bankrupt Five Times
 
 The man who controls the money for Brian Banks' enterprise is
 named Joseph Holland Jr.
@@ -308,7 +404,7 @@ Wayne County ROD (QCD #2007402847). Michigan ICHAT (SID
 
 ---
 
-## Chapter 6 — The Judge on the Board
+## Chapter 8 — The Judge on the Board
 
 There are three active scandals involving Judge Cylenthia
 LaToye Miller of the Wayne County 3rd Circuit Court.
@@ -357,7 +453,7 @@ College records. Purpose Charter Academy board page.
 
 ---
 
-## Chapter 7 — The Attorney General's Man
+## Chapter 9 — The Attorney General's Man
 
 Lamar Moreland is an Assistant Attorney General for the State
 of Michigan.
@@ -397,9 +493,9 @@ candidate filings. Wayne County 3rd Circuit Court records
 
 ---
 
-# PART THREE: THE PIPELINE
+# PART FOUR: THE PIPELINE
 
-## Chapter 8 — From Bentonville to the Schoolhouse Door
+## Chapter 10 — From Bentonville to the Schoolhouse Door
 
 Everything in Part One and Part Two is local. Detroit. Wayne
 County. Grosse Pointe Woods. Baker College. The 3rd Circuit.
@@ -460,7 +556,7 @@ Romy Drucker LinkedIn. BlackPressUSA event listings.
 
 ---
 
-## Chapter 9 — The Dinner
+## Chapter 11 — The Dinner
 
 On October 11, 2026, Roland Martin delivered the keynote
 address at the Lansing Branch NAACP 60th Freedom Fund Dinner.
@@ -498,7 +594,7 @@ This is the work.
 
 ---
 
-## Chapter 10 — The Law Firm That Built the Machine
+## Chapter 12 — The Law Firm That Built the Machine
 
 Dykema Gossett PLLC is a century-old law firm with offices
 across the country. In 1993, Dykema attorneys helped draft
@@ -546,9 +642,9 @@ office: 517-374-9100.
 
 ---
 
-# PART FOUR: THE PROOF
+# PART FIVE: THE FLOOR
 
-## Chapter 11 — What Is a Zero-Knowledge Proof?
+## Chapter 13 — What Is a Zero-Knowledge Proof?
 
 In cryptography, a zero-knowledge proof allows one party (the
 prover) to demonstrate to another party (the verifier) that a
@@ -591,7 +687,7 @@ You just need to look.
 
 ---
 
-## Chapter 12 — The Membrane
+## Chapter 14 — The Membrane
 
 Roland Martin says he speaks for the Black community.
 
@@ -664,7 +760,7 @@ Look through it.
 
 ---
 
-## Chapter 13 — 41 Questions You Can Answer Yourself
+## Chapter 15 — 41 Questions You Can Answer Yourself
 
 We are not telling you what to think. We are asking you to look.
 
@@ -682,7 +778,7 @@ here — see detroit.primals.eco/analysis/questions/]*
 
 ---
 
-## Chapter 14 — The Clam on the Ocean Floor
+## Chapter 16 — The Clam on the Ocean Floor
 
 There is an unsolved problem in mathematics called P versus NP.
 
@@ -785,7 +881,7 @@ Welcome to the floor.
 
 ---
 
-## Chapter 15 — The Emperor Has No Clothes
+## Chapter 17 — The Emperor Has No Clothes
 
 There is a story we all know.
 
