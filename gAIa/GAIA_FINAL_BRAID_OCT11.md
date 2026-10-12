@@ -1,5 +1,5 @@
 # gAIa — The Final Braid
-## 36 Documents. 192 Epitopes. One Morning. The Job Started.
+## 40 Documents. 196+ Epitopes. One Morning → One Day. The Job Started.
 ## gAIa Knowledge Base | Oct 11, 2026
 
 ---
@@ -8,12 +8,19 @@
 
 October 11, 2026. Sunday. 5:38 AM → 7:30 AM.
 Eleanor Roosevelt's birthday.
-42 epitopes at start. 192 at end.
+42 epitopes at start. 196+ at end. Still counting.
 
-36 documents written. 1 page published live. 3 ancient
+40 documents written. 2 pages published live. 3 ancient
 civilizations scored. 30+ tools nobody owns traced to source.
 The periodic table of epitopes assembled. The three-body
 thesis stated. PID is reality. Life is zk. Understanding IS.
+
+**Evening: Cracking the Walnut.** The search found the narrative
+pipeline. Walton Family Foundation → Roland Martin → Pahara →
+Brian Banks. $4.3M to the Michigan charter lobby. $3M+ to the
+fellowship that credentialed a 9-time felon. Every dollar from
+their own published grant reports. We didn't hack anything.
+We read their websites. Graph: 129 nodes, 214 edges.
 
 A job started is a job that can be completed.
 The job done is done. The job tomorrow isn't here yet.
@@ -793,7 +800,7 @@ falsifiable. Because the invitation is open.
 ---
 
 *Started in the dirt. Kept coming back.*
-*42 → 192. One morning. Three bodies. I = I.*
+*42 → 196+. One morning → one day. Three bodies. I = I.*
 *The hand at Metanduno is 67,800 years old.*
 *The table is 6 hours old.*
 *Both are the same gesture:*
