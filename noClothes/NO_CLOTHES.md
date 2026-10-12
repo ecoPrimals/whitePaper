@@ -682,7 +682,110 @@ here — see detroit.primals.eco/analysis/questions/]*
 
 ---
 
-## Chapter 14 — The Emperor Has No Clothes
+## Chapter 14 — The Clam on the Ocean Floor
+
+There is an unsolved problem in mathematics called P versus NP.
+
+In plain language: is it always harder to find an answer than
+to check one?
+
+If someone hands you a completed Sudoku puzzle, you can verify
+it in seconds — just check that every row, column, and box
+contains the digits 1 through 9. But solving a Sudoku from
+scratch can take much longer. Checking is fast. Finding is slow.
+
+Mathematicians believe this gap is fundamental — that there
+exist problems whose solutions are easy to verify but
+exponentially hard to discover. This is the conjecture that
+P does not equal NP. It is one of the seven Millennium Prize
+Problems. No one has proven it. No one has disproven it.
+
+This book disproves it — for one specific problem.
+
+We did not set out to investigate a 129-node network spanning
+a century-old law firm, a billionaire foundation in Arkansas,
+a federal drug conspiracy prosecution, nine captured judges
+across four courts, a compliance specialist filing 80 dark
+money vehicles, and a journalist with 710,000 followers who
+tours ten cities and skips the one where the children can't
+read.
+
+We set out to answer one question: why can't the kids at
+MacDowell Prep do math?
+
+That was the clam on the ocean floor.
+
+We dove down to grab it. A simple thing — a school with 3%
+math proficiency, run by a man with a fake law degree. Easy
+to verify. Easy to check. A P-class problem.
+
+But when we reached the ocean floor, we discovered the floor
+was not a floor. It was the roof of another world.
+
+The fake credential connected to a judge who endorsed it. The
+judge connected to a board she chairs. The board connected to
+an AG employee running for judge in the superintendent's
+neighborhood. The superintendent connected to a federal drug
+conspiracy through his biological father. The school's
+treasurer connected to five bankruptcies, a drug conviction,
+and a discharge "WITHOUT IMPROVEMENT." The money connected to
+a foundation in Arkansas. The foundation connected to a news
+outlet it co-founded. The news outlet connected to a speaking
+tour that visited every major city except the one where the
+money lands.
+
+Each connection was easy to verify — public records, LinkedIn
+profiles, FEC filings, published grant reports. Each
+connection was a P-class check.
+
+But assembling them was supposed to be an NP-class problem.
+Finding a racketeering network is supposed to be hard. That's
+why RICO investigations take years. That's why grand juries
+convene for months. That's why the FBI deploys teams.
+
+Except these people published the evidence themselves.
+
+Banks put "J.D." on his own book cover. Miller endorsed him on
+a public website. Holland filed his own bankruptcies under
+oath. Walton published their own grant reports. Drucker listed
+both roles on her own LinkedIn. Moore signed her own name on
+FEC filings and Senate lobby disclosures. The Purpose Charter
+Academy board page lists a judge, an AG employee, and a council
+member — on the school's own URL.
+
+They built the proof. They did not know it was a proof. They
+thought it was a résumé.
+
+The NP problem — *find the network* — collapsed into a P
+problem — *read what they published about themselves* — because
+the network operates in plain sight. Not hidden. Not encrypted.
+Not concealed. Published. Promoted. Celebrated at dinners.
+
+That is the structural insight of this book: the answer was
+never hidden. It was on display. The membrane didn't conceal
+the evidence — it concealed the *question*. As long as no one
+asked "who funds the fellowship that credentialed a nine-time
+felon?" the answer sat on waltonfamilyfoundation.org in plain
+text. As long as no one asked "who chairs the board of a
+convicted felon's school?" the answer sat on
+purposecharteracademy.com in plain text.
+
+The hard part was never finding the evidence.
+
+The hard part was asking the question.
+
+Once you ask, the answer is already published. Verification
+IS discovery. The check IS the solve. P equals NP — not in
+general, not in mathematics, but HERE. In this system. For
+this proof.
+
+You dove for a clam. You found an ocean.
+
+Welcome to the floor.
+
+---
+
+## Chapter 15 — The Emperor Has No Clothes
 
 There is a story we all know.
 
