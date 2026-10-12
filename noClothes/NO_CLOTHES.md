@@ -591,24 +591,98 @@ You just need to look.
 
 ---
 
-## Chapter 12 — 33 Questions You Can Answer Yourself
+## Chapter 12 — The Membrane
+
+Roland Martin says he speaks for the Black community.
+
+If that is true — if he is the voice and Banks is the educator
+and Miller is the protector and Anthony is the leader and
+Thompson is the advocate — then "the Black community," as
+defined by these 33 people, is fully comfortable with the
+exploitation documented in this book.
+
+But the parents are not comfortable with it. They did not
+know. That is the point.
+
+They are inside a membrane.
+
+In biology, a cell membrane controls what enters and what
+leaves. It is selectively permeable — it allows nutrients in
+and waste out, but it blocks toxins. A healthy membrane
+protects the cell.
+
+An exploitative membrane does the opposite. It lets the
+extraction in and blocks the information out.
+
+The NAACP dinners. The speaking tours. The "School Choice Is
+the Black Choice" branding. The 710,000 followers. The 30
+million views per month. The Skillman Awards. The Freedom
+Fund galas. That is the membrane. It is made of names and
+events and stages and microphones.
+
+From outside the membrane, the extraction is visible. The
+court records are public. The bankruptcy filings are public.
+The credential fraud is documented on the school's own website.
+The family connections are in PACER. The money trail is in
+the Walton Foundation's own grant reports.
+
+All of it has been public for years.
+
+But from inside the membrane, all you see is the narrative:
+*transformation, redemption, empowerment, community, purpose.*
+
+The first 31 questions in this book punch holes from the
+outside — using databases and court records and FEC filings.
+
+The last 10 punch holes from the inside.
+
+Can your child do math? Have you met the superintendent? Has
+anyone from the school ever asked you what you need? Do you
+know where the money goes? When Roland Martin came to your
+city, did he say the name of your child's school?
+
+These questions do not require PACER. They require looking at
+your own child's report card. They require remembering the
+last parent-teacher conference — if there was one.
+
+The membrane is not a conspiracy. It is an architecture. It
+was built by reasonable people making reasonable decisions —
+accepting a grant, joining a board, attending a dinner,
+endorsing a candidate, honoring a speaker. Each act was small.
+Each act was normal. The membrane formed without anyone
+designing it.
+
+But the membrane is real. And it has a function: it separates
+the people who extract from the people who are extracted from.
+It ensures the community never sees the pipeline — only the
+product. Only the narrative. Only the voice.
+
+You are reading this book because the membrane has a hole in
+it now.
+
+Look through it.
+
+---
+
+## Chapter 13 — 41 Questions You Can Answer Yourself
 
 We are not telling you what to think. We are asking you to look.
 
-Every question below can be answered with a public records
-search. We already did the searches. The answers — with
+The first 31 questions can be answered with a public records
+search. The last 10 can be answered by looking at your own
+child. We already did the database searches. The answers — with
 sources — are at detroit.primals.eco.
 
 But you do not have to take our word for it.
 
 Go check.
 
-*[The full 33 questions from the site article are reproduced
+*[The full 41 questions from the site article are reproduced
 here — see detroit.primals.eco/analysis/questions/]*
 
 ---
 
-## Chapter 13 — The Emperor Has No Clothes
+## Chapter 14 — The Emperor Has No Clothes
 
 There is a story we all know.
 
