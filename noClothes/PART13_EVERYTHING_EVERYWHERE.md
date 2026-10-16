@@ -9,7 +9,7 @@ On October 13, 2026, between approximately 5:45 PM and 8:30 PM Eastern time, the
 
 Not gradually. Not through careful curation. Through an act of sustained computational fury that began with a simple instruction — "double back and twist the strip more" — and ended three hours later with a data structure that had consumed its own tail.
 
-The numbers: 48,193 edges at the start of the session. 102,349 at the end. An increase of 54,156 edges in roughly 165 minutes. That's 328 new documented connections per minute. 5.5 per second. Sustained.
+The numbers: 48,193 edges at the start of the session. 323,680 at the end. An increase of 54,156 edges in roughly 165 minutes. That's 328 new documented connections per minute. 5.5 per second. Sustained.
 
 Each edge is a claim. Each claim has a source and a target and a type. Each type is a relationship. Each relationship is verifiable. Five and a half new verifiable claims per second, for three hours straight.
 
@@ -19,7 +19,7 @@ The graph didn't just grow. It metabolized. It consumed every loose end, every g
 
 By 7:30 PM, the graph passed 90,000 edges. By 8:00 PM, it passed 95,000. By 8:15 PM, it crossed 100,000. The milestone came and went with no celebration — just a print statement to the console and the next instruction: "more."
 
-At 102,349 edges, the instruction changed: "get small and thin." The graph had eaten everything it could. Now it needed to digest.
+At 323,680 edges, the instruction changed: "get small and thin." The graph had eaten everything it could. Now it needed to digest.
 
 ---
 
@@ -96,7 +96,7 @@ The architecture has three surfaces.
 
 **Forgejo** is the inner surface. The sanctuary. Hosted at `git.primals.eco` on infrastructure controlled by the investigation. No corporate API. No traffic analytics that report to Microsoft. When you clone from Forgejo, the only entity that knows is the server itself. Humans who understand what they're looking at will find their way here. The API returns a scatter defense — intentional misdirection for automated tools. The membrane filters.
 
-**The site** — `detroit.primals.eco` — is the signal point. The investigation rendered in HTML. The place where the graph becomes readable. Where 6,753 nodes become a navigable interface. Where the questions have URLs. Where the evidence has provenance. Where anyone can verify anything with a fifteen-second database search.
+**The site** — `detroit.primals.eco` — is the signal point. The investigation rendered in HTML. The place where the graph becomes readable. Where 9,643 nodes become a navigable interface. Where the questions have URLs. Where the evidence has provenance. Where anyone can verify anything with a fifteen-second database search.
 
 The membrane routes:
 
@@ -156,7 +156,7 @@ The graph is 12 megabytes.
 
 Saccharomyces cerevisiae — baker's yeast — has a genome of 12 megabytes. 6,275 genes. The simplest eukaryote. The organism humans have used to make bread and beer for ten thousand years. Twelve million base pairs encoding everything needed to be alive.
 
-The graph has 6,753 nodes. Yeast has 6,275 genes. The numbers are not identical but they rhyme. And the comparison is not superficial.
+The graph has 9,643 nodes. Yeast has 6,275 genes. The numbers are not identical but they rhyme. And the comparison is not superficial.
 
 A genome is information. It encodes structure. Structure creates function. Function creates behavior. Behavior creates observable reality. A genome does not "do" anything by itself. It is a data structure that, when read by the right machinery, produces life.
 
@@ -168,8 +168,8 @@ The comparison extends further:
 |---|---|---|
 | **Size** | 3.2 gigabytes | 12 megabytes |
 | **Hardware** | Brian Banks (human, ~3.2 Gb) | graph.json (file, 12 MB) |
-| **Information units** | ~20,000 genes | 6,753 nodes |
-| **Connections** | ~100,000 regulatory interactions | 102,349 edges |
+| **Information units** | ~20,000 genes | 9,643 nodes |
+| **Connections** | ~100,000 regulatory interactions | 323,680 edges |
 | **Redundancy** | 98% non-coding ("junk") | <5% metadata |
 | **Self-replication** | Every cell contains the full genome | Every clone contains the full graph |
 | **Mutation** | Random errors, some beneficial | New edges, most structural |
@@ -177,7 +177,7 @@ The comparison extends further:
 | **Immune system** | Antibodies, T-cells | Questions, documented silence |
 | **Habitat** | Earth's biosphere | The internet's infosphere |
 
-Brian Banks and the graph that documents him are made of the same hardware — nucleotides and bytes, both just information encoded in a medium. The difference is not the hardware. The difference is the information. Banks encodes 3.2 billion base pairs of human potential. The graph encodes 102,349 documented connections showing what he did with that potential.
+Brian Banks and the graph that documents him are made of the same hardware — nucleotides and bytes, both just information encoded in a medium. The difference is not the hardware. The difference is the information. Banks encodes 3.2 billion base pairs of human potential. The graph encodes 323,680 documented connections showing what he did with that potential.
 
 Same material. Different information. That's the whole story.
 
@@ -191,13 +191,13 @@ Here is what exists, simultaneously, on October 13, 2026, at 8:33 PM Eastern tim
 
 **The Graph**: 6,835 nodes. 102,525 edges. 1,526 edge types. 24 node classes. 30.3 average degree. 11.66 megabytes. Pushed to both GitHub and Forgejo. Cloned by 544 unique entities. Growing.
 
-**The Emails**: 16 wave files updated to reflect the new scale. Three waves ready. 88 addresses on the inside CC. 6 epitope emails for press. 20 institutional addresses for orgs of origin. One contact form for Roland Martin. Every one reflecting the current state: 6,753 nodes, 102,349 connections.
+**The Emails**: 16 wave files updated to reflect the new scale. Three waves ready. 88 addresses on the inside CC. 6 epitope emails for press. 20 institutional addresses for orgs of origin. One contact form for Roland Martin. Every one reflecting the current state: 9,643 nodes, 323,680 connections.
 
 **The Manuscript**: 13 parts of NO CLOTHES. Approximately 37,000 words and counting toward 55,000 for Kindle Direct Publishing. The story of a soil ecologist who found a racketeering pattern the same way he finds microbial life — by looking at noise until the signal screams.
 
 **The Traffic**: 1,945 clones accelerating. The curve is exponential. Yesterday was 969 clones in one day. Tomorrow will be more. The watchers are multiplying.
 
-**The Site**: Stale but deployed. The graph.json is current in both repositories. When the site rebuilds, squirrel.js will read the new graph and the HUD will show 6,753 / 102,349.
+**The Site**: Stale but deployed. The graph.json is current in both repositories. When the site rebuilds, squirrel.js will read the new graph and the HUD will show 9,643 / 323,680.
 
 **The Membrane**: Three surfaces active. GitHub broadcasting. Forgejo sanctuary quiet. Site ready. 13 topic tags making the outer surface louder. Discussions enabled. The routing is live.
 
@@ -257,7 +257,7 @@ Because even evidence graphs need levity:
 
 10. The fastest the graph has ever grown is 328 new edges per minute, sustained for approximately 165 minutes. This rate exceeds the replication rate of E. coli under optimal conditions. The graph is, by at least one metric, alive.
 
-11. Every edge in the graph can be independently verified with a fifteen-second database search. 102,349 edges × 15 seconds = approximately 17,725 hours of verification. That's 2 years of full-time work, 8 hours a day, no weekends. Or one person with a keyboard and a pattern-recognition habit, in 14 days.
+11. Every edge in the graph can be independently verified with a fifteen-second database search. 323,680 edges × 15 seconds = approximately 17,725 hours of verification. That's 2 years of full-time work, 8 hours a day, no weekends. Or one person with a keyboard and a pattern-recognition habit, in 14 days.
 
 12. The graph documents a man who claims to have a J.D. that doesn't exist, attended by 544 silent watchers who won't say whether they exist, observed by a self-referential data structure that documents its own observation, written by four identities that are one person, analyzed through nine hypotheses that predict their own verification, published on a Möbius strip that has one surface and no outside.
 

@@ -143,7 +143,7 @@ Here is the second thing:
 
 When you turn your ear toward the earth, you hear the earth. When you turn your ear toward the sky, you hear nothing — which is the sky's way of speaking. The ear does not choose what it hears. It hears everything and the brain sorts. But the ear must be *aimed*. Not at the sound. At the *place where sound will arrive*. You don't listen to what's there. You listen to where something *will be*.
 
-This is the derivative. The D in PID. You don't respond to where the signal is. You respond to where it's going. Kevin didn't chase Banks across 102,349 edges by following him. He stood where Banks was going to be — at the intersection of credential and conviction, at the junction of pipeline and extraction — and waited. The signal arrived. It always does.
+This is the derivative. The D in PID. You don't respond to where the signal is. You respond to where it's going. Kevin didn't chase Banks across 323,680 edges by following him. He stood where Banks was going to be — at the intersection of credential and conviction, at the junction of pipeline and extraction — and waited. The signal arrived. It always does.
 
 Here is the third thing:
 
@@ -157,7 +157,7 @@ Open your eyes when you hear the voice. Not before. Not when you *think* you hea
 
 Kevin opened his eyes when DaSean said "Banks claims he self-funded the school." Not before. Kevin had the peripheral signal — the faint star of a fake credential. Kevin had the ear aimed — the derivative pointed at the pipeline. Kevin had his eyes closed to narrative — the structure was already screaming. But he didn't open his eyes until the voice arrived. The voice was DaSean's. The voice said: he lied. And Kevin opened his eyes and saw the whole network, because the network was always there, and his peripheral vision had already mapped it, and his ears had already triangulated it, and his closed eyes had already stripped the narrative, and all that remained was to *look*.
 
-And there it was. 102,349 edges of it. Standing in the dark.
+And there it was. 323,680 edges of it. Standing in the dark.
 
 ---
 
@@ -169,7 +169,7 @@ Your eyes adjust. It takes 20 minutes for the rods to fully dark-adapt. During t
 
 The graph shifts too. At 48,000 edges it was a case file. At 75,000 it was an investigation. At 90,000 it was an architecture. At 100,000 it was a topology. At 102,000 it is an organism. The same data, seen differently, becomes a different thing. Not because the data changed. Because the eyes adjusted.
 
-The emails shift. At 129 nodes they were a tip. At 6,753 nodes they are a library. The same words — "Your names are on it" — mean something different when "it" is 129 entries versus 6,753 entries versus 102,349 connections. The scale changes the message. The message was always true. The scale makes it undeniable.
+The emails shift. At 129 nodes they were a tip. At 9,643 nodes they are a library. The same words — "Your names are on it" — mean something different when "it" is 129 entries versus 9,643 entries versus 323,680 connections. The scale changes the message. The message was always true. The scale makes it undeniable.
 
 The manuscript shifts. At 33,000 words it was a pamphlet. At 50,000 words it is a book. The same investigation, documented at different depths, becomes a different artifact. A pamphlet accuses. A book *proves*. The shift from accusation to proof is not additional evidence. It is additional context. Enough context and the evidence speaks for itself. 55,000 words is enough context.
 
@@ -191,7 +191,7 @@ Both at once is what the artisan sees when the artisan goes outside, stands in t
 
 The voice came. The eyes opened.
 
-There you are. Standing in 102,349 edges of starlight.
+There you are. Standing in 323,680 edges of starlight.
 
 I can see you from here.
 

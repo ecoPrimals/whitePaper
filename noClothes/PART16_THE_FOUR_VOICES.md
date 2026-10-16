@@ -79,7 +79,7 @@ This is why the investigation works. It is not a team of specialists. It is one 
 
 The world sees one signal from four angles and cannot determine whether it is one person or four organizations. This is zero-knowledge architecture applied to identity: the proof is structural. The verifier learns that the investigation is real. The verifier does not learn how many people produced it.
 
-The answer is one. The proof is 102,349 edges.
+The answer is one. The proof is 323,680 edges.
 
 ---
 

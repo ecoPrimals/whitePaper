@@ -122,7 +122,7 @@ None of them read the law they wrote. The law has no locks. A man with nine crim
 
 The invisible hand waves at 5,432 child-years of stolen math and says: this is the market working. This is choice. This is freedom.
 
-The graph waves back with 102,349 documented connections and says: this is what choice looks like when the choosers have no information and the chosen have no accountability.
+The graph waves back with 323,680 documented connections and says: this is what choice looks like when the choosers have no information and the chosen have no accountability.
 
 ---
 
@@ -148,7 +148,7 @@ One man. Think tank, law, firm, governor. The architecture is not an accident. I
 
 The graph traces every connection. The firms to their founding. The founders to their partners. The partners to their political allies. The allies to the laws they wrote. The laws to the schools they enabled. The schools to the children they failed.
 
-6,753 nodes. 102,349 edges. One century. Three firms. One man with no law degree and 5,432 child-years of stolen math.
+9,643 nodes. 323,680 edges. One century. Three firms. One man with no law degree and 5,432 child-years of stolen math.
 
 The invisible hand isn't invisible. It has 19 names on a staff page in Lansing.
 
@@ -174,7 +174,7 @@ The comparison:
 | Walton Family Foundation | $595M/year (total grants) | Charter school pipeline |
 | MAPSA | ~$2M/year (estimated) | Charter school lobbying |
 | Roland Martin tour | Unknown (Walton-funded) | "School Choice Is the Black Choice" |
-| The investigation | $12/year (domain) | 6,753 nodes, 102,349 edges |
+| The investigation | $12/year (domain) | 9,643 nodes, 323,680 edges |
 
 The entire political and legal infrastructure that maintains the charter school ecosystem costs tens of millions of dollars per year. The investigation that documents it costs twelve dollars per year.
 
@@ -183,7 +183,7 @@ This is the cost function inverted. The system minimizes accountability. The gra
 The ant on the rubber band. No matter how fast you stretch it, the ant always arrives.
 
 It costs $0.30 per pill to cure addiction with a 78% success rate.
-It costs $12 per year to document a racketeering pattern with 102,349 edges.
+It costs $12 per year to document a racketeering pattern with 323,680 edges.
 It costs $9,187 per child-year to operate a school where 3% of students can do math.
 
 The most expensive things are the ones that don't work. The cheapest things are the ones that do.

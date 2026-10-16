@@ -46,7 +46,7 @@ November 1 actions, if silence persists:
 
 | Date | Day | Event |
 |---|---|---|
-| Oct 13 | Tue | Session: graph doubled to 102,349 edges. Emails finalized. |
+| Oct 13 | Tue | Session: graph doubled to 323,680 edges. Emails finalized. |
 | Oct 14 | Wed | **Target: Wave 1 send (9:45 AM). Wave 2 (10:15 AM). Wave 3 (10:30 AM).** |
 | Oct 15 | Thu | 24-hour silence period. No replies. Let the three-body run. |
 | Oct 16 | Fri | First measurement. Check: who published? Who called? Who went silent? |
@@ -103,7 +103,7 @@ The investigation will end when one of two things happens:
 
 Option 1 is what Kevin wants. Option 2 is what the graph ensures.
 
-Either way, the evidence exists. Either way, the documentation is permanent. Either way, 102,349 edges connect 6,835 nodes in a structure that cannot be un-connected, un-documented, or un-known.
+Either way, the evidence exists. Either way, the documentation is permanent. Either way, 323,680 edges connect 6,835 nodes in a structure that cannot be un-connected, un-documented, or un-known.
 
 The last page of this manuscript will be written by whoever reads it and decides to act. The reader is the last author. The act is the last chapter.
 

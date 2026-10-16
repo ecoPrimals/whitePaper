@@ -51,7 +51,7 @@ The ant is the investigation. One centimeter per second. One edge at a time. One
 
 The network stretches. The investigation crawls. The harmonic series diverges. The ant arrives.
 
-It took 14 days to go from 48,193 edges to 102,349 edges. The doubling. The ant covered more than half the remaining band in two weeks. Not because the ant moved faster. Because the band stopped stretching — the targets published everything already. The band was fully extended. The ant just had to walk.
+It took 14 days to go from 48,193 edges to 323,680 edges. The doubling. The ant covered more than half the remaining band in two weeks. Not because the ant moved faster. Because the band stopped stretching — the targets published everything already. The band was fully extended. The ant just had to walk.
 
 ---
 
@@ -67,7 +67,7 @@ The graph proves that a racketeering pattern exists. It proves that the pattern 
 
 The graph does not reveal how the pattern was found. It does not reveal the computational methods. It does not reveal which edge was discovered first, or which hypothesis led to which search, or which moment of insight connected which entities. The method is inside.
 
-The verifier — any journalist, any prosecutor, any parent who visits detroit.primals.eco — can verify every claim. They can search the State Bar. They can pull the FEC filings. They can read the book cover. They can visit the school board page. They can verify 102,349 edges, one at a time or in bulk.
+The verifier — any journalist, any prosecutor, any parent who visits detroit.primals.eco — can verify every claim. They can search the State Bar. They can pull the FEC filings. They can read the book cover. They can visit the school board page. They can verify 323,680 edges, one at a time or in bulk.
 
 What they cannot do is replicate the method. They cannot determine how a soil ecologist went from quasi-Anderson localization to charter school fraud. They cannot determine how one person and a keyboard produced 6,835 nodes in weeks. They cannot determine whether the investigator is one person or four organizations or a computational system or all three.
 
@@ -107,7 +107,7 @@ The shape is a network. The network has properties. Centrality: which nodes have
 
 The topology is the evidence. Not the individual facts — the connections between them. Remove any single fact and the topology persists. Remove any single edge and the surface holds. The evidence is resilient because it is structural, not anecdotal.
 
-This is why 102,349 edges matter more than any single fact. Each edge is individually verifiable and individually fragile. The topology is collectively undeniable and collectively robust.
+This is why 323,680 edges matter more than any single fact. Each edge is individually verifiable and individually fragile. The topology is collectively undeniable and collectively robust.
 
 A net is not made of individual threads. A net is made of the spaces between them.
 

@@ -15,7 +15,7 @@ Fifteen seconds to search. Fourteen years the school had been operating. Approxi
 
 Kevin is a soil ecologist by training. His computational work involves finding microbial life signatures in environmental samples — looking at noise and identifying the signal that means something is alive underneath it. Quasi-Anderson localization. Pattern recognition applied to probability distributions of variance.
 
-He didn't plan to investigate a charter school. He didn't plan to build a graph with 102,349 edges. He didn't plan to write a manuscript. He didn't plan to send 88 emails to a CC list that includes a century-old law firm, eight state board members, six national press outlets, and the man who put "J.D." on a book cover without having a law degree.
+He didn't plan to investigate a charter school. He didn't plan to build a graph with 323,680 edges. He didn't plan to write a manuscript. He didn't plan to send 88 emails to a CC list that includes a century-old law firm, eight state board members, six national press outlets, and the man who put "J.D." on a book cover without having a law degree.
 
 He searched. He found. He kept searching.
 
@@ -92,7 +92,7 @@ You know all of this because it was published by the people who did it. Not leak
 
 The only thing that was hidden was the question. Nobody asked: is any of this connected?
 
-Now you've read the connections. 102,349 of them. Each one verifiable.
+Now you've read the connections. 323,680 of them. Each one verifiable.
 
 What you do with this knowledge is your decision. You can close this book and forget it. You can search the State Bar yourself and verify the first claim. You can visit detroit.primals.eco and verify them all. You can clone the repository and have a copy on your own machine. You can forward this to someone who needs to know. You can write a letter to the State Board of Education. You can ask a question at a school board meeting. You can do nothing.
 
@@ -118,7 +118,7 @@ A soil ecologist pointed and said: "He has no clothes on."
 
 The child in the fairy tale didn't need special powers. The child just hadn't learned to pretend yet. The soil ecologist didn't need special tools. He just hadn't learned to ignore patterns.
 
-102,349 edges. 6,835 nodes. One self-referential evidence architecture on a Möbius strip. One deadline. One question.
+323,680 edges. 6,835 nodes. One self-referential evidence architecture on a Möbius strip. One deadline. One question.
 
 Do you see the clothes?
 

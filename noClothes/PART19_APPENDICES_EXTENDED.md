@@ -89,7 +89,7 @@ Brian Banks does not hold a J.D. from any accredited institution. The "J.D." on 
 
 **H2: The RICO Pattern**
 The financial flows between Purpose Group LLC, Purpose Charter Academy, MacDowell Preparatory Academy, Purpose Foundation, and affiliated entities constitute a pattern of racketeering activity under 18 U.S.C. § 1962.
-*Status: Documented. 102,349 edges map the pattern.*
+*Status: Documented. 323,680 edges map the pattern.*
 
 **H3: The Pipeline**
 A traceable pipeline connects the Walton Family Foundation (Bentonville, AR) through the Pahara Institute, The 74, MAPSA, and Roland Martin to the schools operated by Brian Banks. The pipeline's purpose is to provide credentialing, media cover, and political protection for charter school operators.
